@@ -1,0 +1,30 @@
+# Github Copilot
+api.github.com
+vscode-auth.github.com
+
+# Kaleido services
+designify.com
+remove.bg
+unscreen.com
+
+# OpenAI
+chat.openai.com
+openai.com
+
+# TheMovieDB
+themoviedb.org
+tmdb.org
+
+# Other
+agar.io
+cloud.oracle.com
+crunchyroll.com
+dl.dell.com
+download.lenovo.com
+fanatical.com
+fotoforensics.com
+ghidra-sre.org
+grammarly.com
+releases.hashicorp.com
+spotify.com
+wakanim.tv
