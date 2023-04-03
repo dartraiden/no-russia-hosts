@@ -29,6 +29,7 @@ hybrid-analysis.com
 intel.com
 keepgrowing.in
 netflix.com
+platform.activestate.com
 releases.hashicorp.com
 solarwinds.com
 spotify.com
