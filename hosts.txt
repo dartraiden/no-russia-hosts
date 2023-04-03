@@ -25,6 +25,8 @@ fanatical.com
 fotoforensics.com
 ghidra-sre.org
 grammarly.com
+intel.com
+netflix.com
 releases.hashicorp.com
 spotify.com
 wakanim.tv
