@@ -17,7 +17,9 @@ tmdb.org
 
 # Other
 agar.io
+annimon.com
 cloud.oracle.com
+cpu-monkey.com
 crunchyroll.com
 dl.dell.com
 download.lenovo.com
