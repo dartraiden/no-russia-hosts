@@ -1,31 +1,40 @@
+# platform.activestate.com
+activestate.com
+
+# Bing Chat
+bing.com
+
+# forum.chaos.com, try.chaos.com
+chaos.com
+
+# dl.dell.com
+dell.com
+
 # Github Copilot
-api.github.com
-vscode-auth.github.com
+github.com
 
-# Kaleido services
-designify.com
-remove.bg
-unscreen.com
+# releases.hashicorp.com
+hashicorp.com
 
-# OpenAI
-chat.openai.com
-openai.com
+# download.lenovo.com
+lenovo.com
 
-# TheMovieDB
+# Oracle Cloud
+oracle.com
+
+# api.themoviedb.org
 themoviedb.org
+
+# images.tmdb.org
 tmdb.org
 
 # Other
 agar.io
 annimon.com
 bestbuy.com
-bing.com
-chaos.com
-cloud.oracle.com
 cpu-monkey.com
 crunchyroll.com
-dl.dell.com
-download.lenovo.com
+designify.com
 fanatical.com
 fotoforensics.com
 ghidra-sre.org
@@ -34,8 +43,9 @@ hybrid-analysis.com
 intel.com
 keepgrowing.in
 netflix.com
-platform.activestate.com
-releases.hashicorp.com
+openai.com
+remove.bg
 solarwinds.com
 spotify.com
+unscreen.com
 wakanim.tv
