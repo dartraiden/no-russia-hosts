@@ -30,6 +30,7 @@ tmdb.org
 
 # Other
 agar.io
+analog.com
 annimon.com
 bestbuy.com
 cpu-monkey.com
@@ -47,5 +48,6 @@ openai.com
 remove.bg
 solarwinds.com
 spotify.com
+sysdig.com
 unscreen.com
 wakanim.tv
