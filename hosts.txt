@@ -45,6 +45,8 @@ intel.com
 keepgrowing.in
 netflix.com
 openai.com
+perforce.com
+redis.com
 remove.bg
 solarwinds.com
 spotify.com
