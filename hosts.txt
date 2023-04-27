@@ -1,6 +1,9 @@
 # platform.activestate.com
 activestate.com
 
+# gaming.amazon.com
+amazon.com
+
 # Bing Chat
 bing.com
 
