@@ -53,6 +53,7 @@ redis.com
 remove.bg
 solarwinds.com
 spotify.com
+steganos.com
 sysdig.com
 unscreen.com
 wakanim.tv
