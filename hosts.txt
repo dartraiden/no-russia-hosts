@@ -19,6 +19,9 @@ github.com
 # releases.hashicorp.com
 hashicorp.com
 
+# hex-rays.com/vulnfix/
+hex-rays.com
+
 # download.lenovo.com
 lenovo.com
 
