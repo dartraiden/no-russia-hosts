@@ -49,6 +49,7 @@ grammarly.com
 hybrid-analysis.com
 intel.com
 keepgrowing.in
+macvendors.com
 netflix.com
 openai.com
 perforce.com
