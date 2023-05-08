@@ -40,6 +40,9 @@ themoviedb.org
 # images.tmdb.org
 tmdb.org
 
+# cart.webex.com
+webex.com
+
 # Other
 adafruit.com
 agar.io
@@ -47,13 +50,16 @@ airbrake.io
 analog.com
 annimon.com
 bestbuy.com
+citrix.com
 cpu-monkey.com
 crunchyroll.com
+daz3d.com
 deezer.com
 designify.com
 fanatical.com
 flexpool.io
 fotoforensics.com
+gambody.com
 ghidra-sre.org
 grammarly.com
 hybrid-analysis.com
@@ -69,13 +75,19 @@ netflix.com
 nxp.com
 openai.com
 perforce.com
+pluralsight.com
+qualcomm.com
+readdle.com
 redis.com
 remove.bg
+setapp.com
 solarwinds.com
 spotify.com
 steganos.com
+strava.com
 sysdig.com
 unscreen.com
+vagrantcloud.com
 veritas.com
 vpnunlimited.com
 vyos.io
