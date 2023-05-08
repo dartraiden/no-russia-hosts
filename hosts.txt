@@ -4,6 +4,12 @@ activestate.com
 # gaming.amazon.com
 amazon.com
 
+# login.amd.com
+amd.com
+
+# itunes.apple.com/search
+apple.com
+
 # Bing Chat
 bing.com
 
@@ -35,23 +41,32 @@ themoviedb.org
 tmdb.org
 
 # Other
+adafruit.com
 agar.io
+airbrake.io
 analog.com
 annimon.com
 bestbuy.com
 cpu-monkey.com
 crunchyroll.com
+deezer.com
 designify.com
 fanatical.com
+flexpool.io
 fotoforensics.com
 ghidra-sre.org
 grammarly.com
 hybrid-analysis.com
 intel.com
 keepgrowing.in
+keepsolid.com
 letyshops.com
 macvendors.com
+maximintegrated.com
+megogo.net
+mouser.com
 netflix.com
+nxp.com
 openai.com
 perforce.com
 redis.com
@@ -61,4 +76,7 @@ spotify.com
 steganos.com
 sysdig.com
 unscreen.com
+veritas.com
+vpnunlimited.com
+vyos.io
 wakanim.tv
