@@ -31,7 +31,7 @@ hex-rays.com
 # download.lenovo.com
 lenovo.com
 
-# Oracle Cloud
+# cloud.oracle.com
 oracle.com
 
 # builds.parsec.app
