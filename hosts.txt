@@ -83,6 +83,7 @@ qualcomm.com
 readdle.com
 redis.com
 remove.bg
+securitytrails.com
 setapp.com
 solarwinds.com
 spotify.com
