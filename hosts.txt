@@ -67,6 +67,7 @@ ghidra-sre.org
 grammarly.com
 hybrid-analysis.com
 intel.com
+jsfiddle.net
 keepgrowing.in
 keepsolid.com
 letyshops.com
