@@ -22,6 +22,9 @@ chaos.com
 # dl.dell.com
 dell.com
 
+# d.furaffinity.net/art/targso/1574791654/1574791654.targso_бассеин2.png
+furaffinity.net
+
 # Github Copilot
 github.com
 
