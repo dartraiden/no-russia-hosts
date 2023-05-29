@@ -28,6 +28,9 @@ furaffinity.net
 # Github Copilot
 github.com
 
+# mviskarada.gov.ua
+gov.ua
+
 # releases.hashicorp.com
 hashicorp.com
 
