@@ -94,6 +94,7 @@ oclc.org
 perforce.com
 pluralsight.com
 qualcomm.com
+ratatype.com
 readdle.com
 redis.com
 remove.bg
