@@ -111,3 +111,4 @@ veritas.com
 vpnunlimited.com
 vyos.io
 wakanim.tv
+weather.com
