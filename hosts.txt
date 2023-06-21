@@ -40,6 +40,9 @@ hex-rays.com
 # download.lenovo.com
 lenovo.com
 
+# software-static.download.prss.microsoft.com
+microsoft.com
+
 # chat.openai.com
 openai.com
 
