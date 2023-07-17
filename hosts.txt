@@ -69,6 +69,7 @@ analog.com
 annimon.com
 bestbuy.com
 citrix.com
+clevelandclinic.org
 cpu-monkey.com
 crunchyroll.com
 daz3d.com
@@ -81,6 +82,7 @@ fotoforensics.com
 gambody.com
 ghidra-sre.org
 grammarly.com
+healthline.com
 hybrid-analysis.com
 intel.com
 jsfiddle.net
