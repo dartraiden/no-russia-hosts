@@ -78,6 +78,7 @@ crunchyroll.com
 daz3d.com
 deezer.com
 designify.com
+digikey.com
 dumpforums.to
 fanatical.com
 flexpool.io
@@ -112,9 +113,11 @@ securitytrails.com
 setapp.com
 solarwinds.com
 spotify.com
+st.com
 steganos.com
 strava.com
 sysdig.com
+ti.com
 unscreen.com
 vagrantcloud.com
 veritas.com
