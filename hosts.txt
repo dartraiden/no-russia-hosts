@@ -61,6 +61,9 @@ themoviedb.org
 # images.tmdb.org
 tmdb.org
 
+# viperatech.com/tickets
+viperatech.com
+
 # cart.webex.com
 webex.com
 
