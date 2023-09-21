@@ -58,6 +58,9 @@ oracle.com
 # builds.parsec.app
 parsec.app
 
+# community.sophos.com
+sophos.com
+
 # api.themoviedb.org
 themoviedb.org
 
