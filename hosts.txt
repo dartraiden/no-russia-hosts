@@ -46,9 +46,6 @@ hex-rays.com
 # community.infineon.com
 infineon.com
 
-# download.lenovo.com
-lenovo.com
-
 # software-static.download.prss.microsoft.com
 microsoft.com
 
