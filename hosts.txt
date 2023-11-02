@@ -25,6 +25,9 @@ cisco.com
 # dl.dell.com
 dell.com
 
+# artifacts.elastic.co
+elastic.co
+
 # d.furaffinity.net/art/targso/1574791654/1574791654.targso_бассеин2.png
 furaffinity.net
 
@@ -34,8 +37,15 @@ fujitsu.com
 # Github Copilot
 github.com
 
+# packages.gitlab.com
+gitlab.com
+
 # mviskarada.gov.ua
 gov.ua
+
+# apt.grafana.com
+# dl.grafana.com
+grafana.com
 
 # releases.hashicorp.com
 hashicorp.com
