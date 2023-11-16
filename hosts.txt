@@ -108,6 +108,7 @@ fotoforensics.com
 gambody.com
 ghidra-sre.org
 grammarly.com
+habr.com
 healthline.com
 hybrid-analysis.com
 icd10data.com
