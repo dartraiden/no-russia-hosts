@@ -135,6 +135,7 @@ redis.com
 remove.bg
 securitytrails.com
 setapp.com
+smartbear.com
 solarwinds.com
 spotify.com
 st.com
