@@ -142,6 +142,13 @@
     },
     {
       "title": "",
+      "pattern": "*.crunchbase.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.crunchyroll.com",
       "type": 1,
       "protocols": 1,
