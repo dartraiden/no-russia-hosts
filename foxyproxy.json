@@ -576,6 +576,13 @@
     },
     {
       "title": "",
+      "pattern": "*.stuff.co.nz",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.sysdig.com",
       "type": 1,
       "protocols": 1,
