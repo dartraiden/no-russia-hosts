@@ -16,7 +16,8 @@ avcdn.net
 # Bing Chat
 bing.com
 
-# forum.chaos.com, try.chaos.com
+# forums.chaos.com
+# try.chaos.com
 chaos.com
 
 # community.cisco.com
