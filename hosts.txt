@@ -29,6 +29,9 @@ dell.com
 # artifacts.elastic.co
 elastic.co
 
+# sites.fastspring.com
+fastspring.com
+
 # d.furaffinity.net/art/targso/1574791654/1574791654.targso_бассеин2.png
 furaffinity.net
 
