@@ -108,6 +108,9 @@ parsec.app
 # community.sophos.com
 sophos.com
 
+# app.terraform.io
+terraform.io
+
 # api.themoviedb.org
 themoviedb.org
 

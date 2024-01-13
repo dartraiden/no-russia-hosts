@@ -750,6 +750,13 @@
     },
     {
       "title": "",
+      "pattern": "*.terraform.io",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.themoviedb.org",
       "type": 1,
       "protocols": 1,
