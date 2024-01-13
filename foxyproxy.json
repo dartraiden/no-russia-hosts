@@ -470,6 +470,13 @@
     },
     {
       "title": "",
+      "pattern": "*.linuxiac.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.m3u.in",
       "type": 1,
       "protocols": 1,
