@@ -120,6 +120,9 @@ viperatech.com
 # cart.webex.com
 webex.com
 
+# gallery.zetalliance.org
+zetalliance.org
+
 # Other
 adafruit.com
 agar.io

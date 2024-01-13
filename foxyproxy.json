@@ -866,6 +866,13 @@
       "type": 1,
       "protocols": 1,
       "active": true
+    },
+    {
+      "title": "",
+      "pattern": "*.zetalliance.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
     }
   ],
   "blackPatterns": [
