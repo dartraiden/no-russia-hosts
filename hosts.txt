@@ -26,6 +26,9 @@ cisco.com
 # dl.dell.com
 dell.com
 
+# afcs.dellcdn.com
+dellcdn.com
+
 # artifacts.elastic.co
 elastic.co
 
