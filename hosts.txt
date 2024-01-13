@@ -231,6 +231,7 @@ vpnunlimited.com
 vyos.io
 wakanim.tv
 walletconnect.com
+watchguard.com
 weather.com
 windguru.cz
 wunderground.com
