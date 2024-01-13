@@ -105,6 +105,10 @@ paraswap.io
 # builds.parsec.app
 parsec.app
 
+# download.qt.io
+# master.qt.io
+qt.io
+
 # community.sophos.com
 sophos.com
 
