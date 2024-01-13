@@ -93,6 +93,13 @@
     },
     {
       "title": "",
+      "pattern": "*.bard.google.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.bestbuy.com",
       "type": 1,
       "protocols": 1,
@@ -366,13 +373,6 @@
     {
       "title": "",
       "pattern": "*.glpals.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
-      "pattern": "*.google.com",
       "type": 1,
       "protocols": 1,
       "active": true

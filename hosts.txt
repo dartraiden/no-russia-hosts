@@ -59,9 +59,6 @@ gitlab.com
 # gllto.glpals.com
 glpals.com
 
-# bard.google.com
-google.com
-
 # mviskarada.gov.ua
 gov.ua
 
@@ -152,6 +149,7 @@ alltrails.com
 analog.com
 annimon.com
 aplawrence.com
+bard.google.com
 bestbuy.com
 boosteroid.com
 bradyid.com
