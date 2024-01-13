@@ -197,6 +197,7 @@ remove.bg
 securitytrails.com
 setapp.com
 smartbear.com
+soapui.org
 solarwinds.com
 spotify.com
 st.com
