@@ -57,6 +57,9 @@ gov.ua
 # dl.grafana.com
 grafana.com
 
+# auth.grazie.ai
+grazie.ai
+
 # releases.hashicorp.com
 hashicorp.com
 
