@@ -701,6 +701,13 @@
     },
     {
       "title": "",
+      "pattern": "*.refinitiv.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.remove.bg",
       "type": 1,
       "protocols": 1,

@@ -205,6 +205,7 @@ radarr.video
 ratatype.com
 readdle.com
 redis.com
+refinitiv.com
 remove.bg
 securitytrails.com
 setapp.com
