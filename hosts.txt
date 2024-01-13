@@ -83,6 +83,9 @@ openai.com
 # cloud.oracle.com
 oracle.com
 
+# app.paraswap.io
+paraswap.io
+
 # builds.parsec.app
 parsec.app
 

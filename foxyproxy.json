@@ -526,6 +526,13 @@
     },
     {
       "title": "",
+      "pattern": "*.paraswap.io",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.parsec.app",
       "type": 1,
       "protocols": 1,
