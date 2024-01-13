@@ -75,6 +75,9 @@ hex-rays.com
 # community.infineon.com
 infineon.com
 
+# documentation.meraki.com
+meraki.com
+
 # software-static.download.prss.microsoft.com
 microsoft.com
 
