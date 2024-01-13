@@ -512,6 +512,13 @@
     },
     {
       "title": "",
+      "pattern": "*.mbed.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.megogo.net",
       "type": 1,
       "protocols": 1,
