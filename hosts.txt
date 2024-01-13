@@ -67,6 +67,7 @@ gov.ua
 
 # apt.grafana.com
 # dl.grafana.com
+# rpm.grafana.com
 grafana.com
 
 # auth.grazie.ai
