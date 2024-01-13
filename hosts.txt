@@ -53,6 +53,9 @@ github.com
 # packages.gitlab.com
 gitlab.com
 
+# bard.google.com
+google.com
+
 # mviskarada.gov.ua
 gov.ua
 

@@ -337,6 +337,13 @@
     },
     {
       "title": "",
+      "pattern": "*.google.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.gov.ua",
       "type": 1,
       "protocols": 1,
