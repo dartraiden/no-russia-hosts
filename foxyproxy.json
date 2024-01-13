@@ -114,13 +114,6 @@
     },
     {
       "title": "",
-      "pattern": "*.bing.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
       "pattern": "*.boosteroid.com",
       "type": 1,
       "protocols": 1,

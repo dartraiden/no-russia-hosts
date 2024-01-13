@@ -13,9 +13,6 @@ apple.com
 # bits.avcdn.net
 avcdn.net
 
-# Bing Chat
-bing.com
-
 # portal.bgpmon.net
 bgpmon.net
 
