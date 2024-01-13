@@ -715,6 +715,13 @@
     },
     {
       "title": "",
+      "pattern": "*.resp.app",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.securitytrails.com",
       "type": 1,
       "protocols": 1,
