@@ -192,5 +192,6 @@ vyos.io
 wakanim.tv
 walletconnect.com
 weather.com
+windguru.cz
 wunderground.com
 yourdictionary.com
