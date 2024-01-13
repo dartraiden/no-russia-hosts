@@ -100,6 +100,13 @@
     },
     {
       "title": "",
+      "pattern": "*.bgpmon.net",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.bing.com",
       "type": 1,
       "protocols": 1,

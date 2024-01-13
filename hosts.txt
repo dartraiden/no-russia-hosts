@@ -16,6 +16,9 @@ avcdn.net
 # Bing Chat
 bing.com
 
+# portal.bgpmon.net
+bgpmon.net
+
 # forums.chaos.com
 # try.chaos.com
 chaos.com
