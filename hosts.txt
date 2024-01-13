@@ -88,6 +88,9 @@ microsoft.com
 # cloud.mongodb.com
 mongodb.com
 
+# files.oaiusercontent.com
+oaiusercontent.com
+
 # api.openai.com
 # auth0.openai.com
 # chat.openai.com
