@@ -505,6 +505,13 @@
     },
     {
       "title": "",
+      "pattern": "*.mongodb.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.mouser.com",
       "type": 1,
       "protocols": 1,

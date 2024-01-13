@@ -78,6 +78,10 @@ infineon.com
 # software-static.download.prss.microsoft.com
 microsoft.com
 
+# account.mongodb.com
+# cloud.mongodb.com
+mongodb.com
+
 # api.openai.com
 # auth0.openai.com
 # chat.openai.com
