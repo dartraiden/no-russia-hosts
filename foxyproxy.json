@@ -128,6 +128,13 @@
     },
     {
       "title": "",
+      "pattern": "*.clamav.net",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.clevelandclinic.org",
       "type": 1,
       "protocols": 1,

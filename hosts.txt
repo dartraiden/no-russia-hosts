@@ -23,6 +23,9 @@ chaos.com
 # community.cisco.com
 cisco.com
 
+# database.clamav.net
+clamav.net
+
 # dl.dell.com
 dell.com
 
