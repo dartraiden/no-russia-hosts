@@ -53,6 +53,9 @@ github.com
 # packages.gitlab.com
 gitlab.com
 
+# gllto.glpals.com
+glpals.com
+
 # bard.google.com
 google.com
 
@@ -164,6 +167,7 @@ letyshops.com
 linuxiac.com
 m3u.in
 macvendors.com
+mattermost.com
 maximintegrated.com
 megogo.net
 mouser.com
