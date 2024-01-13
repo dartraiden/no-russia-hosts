@@ -21,6 +21,9 @@ bing.com
 chaos.com
 
 # community.cisco.com
+# id.cisco.com
+# secure-web.cisco.com
+# tools.cisco.com
 cisco.com
 
 # database.clamav.net
