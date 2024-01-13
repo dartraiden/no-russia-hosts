@@ -281,6 +281,13 @@
     },
     {
       "title": "",
+      "pattern": "*.fluke.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.fotoforensics.com",
       "type": 1,
       "protocols": 1,
