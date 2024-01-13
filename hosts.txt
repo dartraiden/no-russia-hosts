@@ -195,6 +195,7 @@ mattermost.com
 maximintegrated.com
 mbed.com
 megogo.net
+microchip.com
 mouser.com
 netflix.com
 nordvpn.com
