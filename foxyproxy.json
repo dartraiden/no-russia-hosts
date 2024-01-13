@@ -862,6 +862,13 @@
     },
     {
       "title": "",
+      "pattern": "*.timberland.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.tmdb.org",
       "type": 1,
       "protocols": 1,
