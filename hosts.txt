@@ -109,6 +109,9 @@ parsec.app
 # master.qt.io
 qt.io
 
+# radarr.servarr.com
+servarr.com
+
 # community.sophos.com
 sophos.com
 
