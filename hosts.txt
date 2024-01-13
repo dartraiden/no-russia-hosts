@@ -149,6 +149,7 @@ megogo.net
 mouser.com
 netflix.com
 nxp.com
+oaistatic.com
 oclc.org
 perforce.com
 pluralsight.com
