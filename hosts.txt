@@ -183,6 +183,7 @@ mouser.com
 netflix.com
 nxp.com
 oaistatic.com
+oasis.app
 oclc.org
 perforce.com
 pluralsight.com
