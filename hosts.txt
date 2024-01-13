@@ -211,6 +211,7 @@ remove.bg
 resp.app
 securitytrails.com
 setapp.com
+slideshare.net
 smartbear.com
 soapui.org
 solarwinds.com
