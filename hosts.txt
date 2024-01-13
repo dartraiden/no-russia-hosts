@@ -166,6 +166,7 @@ oclc.org
 perforce.com
 pluralsight.com
 qualcomm.com
+radarr.video
 ratatype.com
 readdle.com
 redis.com
