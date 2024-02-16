@@ -65,6 +65,13 @@
     },
     {
       "title": "",
+      "pattern": "*.angryemailtranslator.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.annimon.com",
       "type": 1,
       "protocols": 1,
