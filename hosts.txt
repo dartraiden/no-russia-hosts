@@ -208,6 +208,7 @@ oclc.org
 pandasecurity.com
 perforce.com
 pluralsight.com
+phishtank.com
 qualcomm.com
 radarr.video
 ratatype.com
