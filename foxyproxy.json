@@ -786,6 +786,13 @@
     },
     {
       "title": "",
+      "pattern": "*.sendy.jp",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.servarr.com",
       "type": 1,
       "protocols": 1,

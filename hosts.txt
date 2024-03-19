@@ -219,6 +219,7 @@ refinitiv.com
 remove.bg
 resp.app
 securitytrails.com
+sendy.jp
 setapp.com
 slideshare.net
 smartbear.com
