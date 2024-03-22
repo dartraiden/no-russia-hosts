@@ -2,6 +2,13 @@
   "whitePatterns": [
     {
       "title": "",
+      "pattern": "*.4pda.to",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.activestate.com",
       "type": 1,
       "protocols": 1,
