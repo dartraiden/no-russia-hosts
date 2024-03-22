@@ -116,6 +116,9 @@ servarr.com
 # community.sophos.com
 sophos.com
 
+# pkgs.tailscale.com
+tailscale.com
+
 # app.terraform.io
 terraform.io
 
