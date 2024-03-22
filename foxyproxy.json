@@ -982,6 +982,13 @@
     },
     {
       "title": "",
+      "pattern": "*.veeam.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.veritas.com",
       "type": 1,
       "protocols": 1,
