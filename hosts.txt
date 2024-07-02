@@ -82,6 +82,9 @@ hex-rays.com
 # community.infineon.com
 infineon.com
 
+# download.jetbrains.com
+jetbrains.com
+
 # documentation.meraki.com
 meraki.com
 
