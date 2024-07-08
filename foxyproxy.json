@@ -548,6 +548,13 @@
     },
     {
       "title": "",
+      "pattern": "*.ldoceonline.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.letyshops.com",
       "type": 1,
       "protocols": 1,
