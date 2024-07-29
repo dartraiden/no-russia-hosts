@@ -264,5 +264,6 @@ walletconnect.com
 watchguard.com
 weather.com
 windguru.cz
+wonderclub.com
 wunderground.com
 yourdictionary.com

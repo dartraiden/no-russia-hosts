@@ -1108,6 +1108,13 @@
     },
     {
       "title": "",
+      "pattern": "*.wonderclub.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.wunderground.com",
       "type": 1,
       "protocols": 1,
