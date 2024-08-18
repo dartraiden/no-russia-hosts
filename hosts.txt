@@ -266,6 +266,7 @@ strava.com
 stuff.co.nz
 sysdig.com
 systemtek.co.uk
+tableau.com
 thesassway.com
 ti.com
 timberland.com
