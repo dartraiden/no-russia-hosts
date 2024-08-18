@@ -139,6 +139,9 @@ sophos.com
 # pkgs.tailscale.com
 tailscale.com
 
+# account.templatemonster.com
+templatemonster.com
+
 # app.terraform.io
 terraform.io
 
