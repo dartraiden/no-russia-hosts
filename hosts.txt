@@ -256,6 +256,7 @@ redis.com
 refinitiv.com
 remove.bg
 resp.app
+samsclub.com
 securitytrails.com
 sendy.jp
 setapp.com
