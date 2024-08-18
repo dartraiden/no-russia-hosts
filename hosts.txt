@@ -181,6 +181,7 @@ cambiumnetworks.com
 certifytheweb.com
 chatgpt.com
 citrix.com
+claude.ai
 clevelandclinic.org
 cmems-du.eu
 copernicus.eu

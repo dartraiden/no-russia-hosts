@@ -191,6 +191,13 @@
     },
     {
       "title": "",
+      "pattern": "*.claude.ai",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.clevelandclinic.org",
       "type": 1,
       "protocols": 1,
