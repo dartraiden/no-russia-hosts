@@ -56,6 +56,10 @@ furaffinity.net
 # support.ts.fujitsu.com
 fujitsu.com
 
+# Gemini
+gemini.google.com
+googleapis.com
+
 # Github Copilot
 github.com
 
@@ -201,7 +205,6 @@ fluke.com
 formula1.com
 fotoforensics.com
 gambody.com
-gemini.google.com
 ghidra-sre.org
 grammarly.com
 habr.com
