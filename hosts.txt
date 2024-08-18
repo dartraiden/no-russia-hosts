@@ -88,6 +88,9 @@ infineon.com
 # download.jetbrains.com
 jetbrains.com
 
+# https://joyreactor.cc/search?q=путин
+joyreactor.cc
+
 # documentation.meraki.com
 meraki.com
 

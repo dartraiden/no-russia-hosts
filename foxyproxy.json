@@ -541,6 +541,13 @@
     },
     {
       "title": "",
+      "pattern": "*.joyreactor.cc",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.jsfiddle.net",
       "type": 1,
       "protocols": 1,
