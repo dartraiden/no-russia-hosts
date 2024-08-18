@@ -289,6 +289,13 @@
     },
     {
       "title": "",
+      "pattern": "*.devart.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.devops.com",
       "type": 1,
       "protocols": 1,
