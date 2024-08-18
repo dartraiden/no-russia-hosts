@@ -422,6 +422,13 @@
     },
     {
       "title": "",
+      "pattern": "*.futurelearn.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.gambody.com",
       "type": 1,
       "protocols": 1,
