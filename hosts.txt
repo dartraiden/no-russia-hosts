@@ -80,6 +80,11 @@ grafana.com
 # auth.grazie.ai
 grazie.ai
 
+# Groupon
+groupon.com
+# https://img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
+grouponcdn.com
+
 # releases.hashicorp.com
 hashicorp.com
 
