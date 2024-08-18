@@ -926,6 +926,13 @@
     },
     {
       "title": "",
+      "pattern": "*.snort.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.soapui.org",
       "type": 1,
       "protocols": 1,
