@@ -107,13 +107,6 @@
     },
     {
       "title": "",
-      "pattern": "*.bard.google.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
       "pattern": "*.bestbuy.com",
       "type": 1,
       "protocols": 1,
@@ -409,6 +402,13 @@
     {
       "title": "",
       "pattern": "*.gambody.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
+      "pattern": "*.gemini.google.com",
       "type": 1,
       "protocols": 1,
       "active": true

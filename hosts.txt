@@ -198,6 +198,7 @@ fluke.com
 formula1.com
 fotoforensics.com
 gambody.com
+gemini.google.com
 ghidra-sre.org
 grammarly.com
 habr.com
