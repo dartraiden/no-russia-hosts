@@ -16,6 +16,9 @@ apple.com
 # bits.avcdn.net
 avcdn.net
 
+# bing.com/chat
+bing.com
+
 # portal.bgpmon.net
 bgpmon.net
 
@@ -88,6 +91,7 @@ jetbrains.com
 # documentation.meraki.com
 meraki.com
 
+# copilot.microsoft.com
 # software-static.download.prss.microsoft.com
 microsoft.com
 
