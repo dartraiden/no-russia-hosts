@@ -47,6 +47,9 @@ docker.com
 # artifacts.elastic.co
 elastic.co
 
+# store.epicgames.com
+epicgames.com
+
 # sites.fastspring.com
 fastspring.com
 
