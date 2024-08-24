@@ -226,6 +226,7 @@ ghidra-sre.org
 grammarly.com
 habr.com
 healthline.com
+howlongtobeat.com
 hybrid-analysis.com
 icd10data.com
 ign.com
