@@ -228,6 +228,7 @@ habr.com
 healthline.com
 hybrid-analysis.com
 icd10data.com
+ign.com
 intel.com
 joesandbox.com
 jsfiddle.net

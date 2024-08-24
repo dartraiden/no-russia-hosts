@@ -576,6 +576,13 @@
     },
     {
       "title": "",
+      "pattern": "*.ign.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.infineon.com",
       "type": 1,
       "protocols": 1,
