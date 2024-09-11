@@ -1129,6 +1129,13 @@
     },
     {
       "title": "",
+      "pattern": "*.thinkpads.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.ti.com",
       "type": 1,
       "protocols": 1,
