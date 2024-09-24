@@ -156,6 +156,13 @@
     },
     {
       "title": "",
+      "pattern": "*.broadcom.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.cambiumnetworks.com",
       "type": 1,
       "protocols": 1,
