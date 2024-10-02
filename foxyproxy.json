@@ -912,6 +912,13 @@
     },
     {
       "title": "",
+      "pattern": "*.qcad.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.qt.io",
       "type": 1,
       "protocols": 1,

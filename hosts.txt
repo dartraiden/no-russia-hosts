@@ -269,6 +269,7 @@ pandasecurity.com
 perforce.com
 pluralsight.com
 phishtank.com
+qcad.org
 qualcomm.com
 radarr.video
 ratatype.com
