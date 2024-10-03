@@ -359,13 +359,6 @@
     },
     {
       "title": "",
-      "pattern": "*.docker.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
       "pattern": "*.docker.io",
       "type": 1,
       "protocols": 1,

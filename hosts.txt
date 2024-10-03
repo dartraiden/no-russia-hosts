@@ -44,9 +44,6 @@ dell.com
 # afcs.dellcdn.com
 dellcdn.com
 
-# hub.docker.com
-docker.com
-
 # artifacts.elastic.co
 elastic.co
 
