@@ -177,6 +177,9 @@ viperatech.com
 # cart.webex.com
 webex.com
 
+# www.support.xerox.com
+xerox.com
+
 # gallery.zetalliance.org
 zetalliance.org
 
