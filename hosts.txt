@@ -47,7 +47,7 @@ dellcdn.com
 # artifacts.elastic.co
 elastic.co
 
-# store.epicgames.com
+# some giveaways from store.epicgames.com are not available
 epicgames.com
 
 # sites.fastspring.com
