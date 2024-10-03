@@ -583,13 +583,6 @@
     },
     {
       "title": "",
-      "pattern": "*.howlongtobeat.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
       "pattern": "*.hybrid-analysis.com",
       "type": 1,
       "protocols": 1,
@@ -598,13 +591,6 @@
     {
       "title": "",
       "pattern": "*.icd10data.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
-      "pattern": "*.ign.com",
       "type": 1,
       "protocols": 1,
       "active": true
