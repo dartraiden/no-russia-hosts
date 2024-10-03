@@ -125,8 +125,9 @@ oaiusercontent.com
 # chat.openai.com
 openai.com
 
-# cloud.oracle.com
+# cloud.oracle.com (oraclecloud.com blocks login attempts from Russia)
 oracle.com
+oraclecloud.com
 
 # app.paraswap.io
 paraswap.io
