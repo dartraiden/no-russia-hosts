@@ -22,6 +22,9 @@ bing.com
 # portal.bgpmon.net
 bgpmon.net
 
+# game.brawlstarsgame.com blocks access to the game on mobile devices
+brawlstarsgame.com
+
 # login.broadcom.com
 broadcom.com
 
