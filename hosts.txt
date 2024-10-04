@@ -69,7 +69,7 @@ googleapis.com
 # Github Copilot
 github.com
 
-# packages.gitlab.com
+# https://packages.gitlab.com/gitlab/gitlab-ee/
 gitlab.com
 
 # gllto.glpals.com
