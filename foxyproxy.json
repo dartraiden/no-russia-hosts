@@ -1213,6 +1213,13 @@
     },
     {
       "title": "",
+      "pattern": "*.tria.ge",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.truthsocial.com",
       "type": 1,
       "protocols": 1,
