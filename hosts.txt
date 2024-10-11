@@ -240,6 +240,7 @@ futurelearn.com
 gambody.com
 ghidra-sre.org
 grammarly.com
+guilded.gg
 habr.com
 healthline.com
 hybrid-analysis.com
