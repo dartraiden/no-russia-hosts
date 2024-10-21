@@ -212,6 +212,13 @@
     },
     {
       "title": "",
+      "pattern": "*.cisecurity.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.citrix.com",
       "type": 1,
       "protocols": 1,
