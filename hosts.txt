@@ -246,6 +246,7 @@ habr.com
 healthline.com
 hybrid-analysis.com
 icd10data.com
+insanelymac.com
 intel.com
 joesandbox.com
 jsfiddle.net
