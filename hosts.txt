@@ -297,6 +297,7 @@ smartbear.com
 snort.org
 soapui.org
 solarwinds.com
+spiceworks.com
 spotify.com
 st.com
 steganos.com
