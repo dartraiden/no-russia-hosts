@@ -120,9 +120,6 @@ microsoft.com
 # cloud.mongodb.com
 mongodb.com
 
-# download.nvidia.com
-nvidia.com
-
 # files.oaiusercontent.com
 oaiusercontent.com
 

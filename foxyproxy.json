@@ -835,13 +835,6 @@
     },
     {
       "title": "",
-      "pattern": "*.nvidia.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
       "pattern": "*.nxp.com",
       "type": 1,
       "protocols": 1,
