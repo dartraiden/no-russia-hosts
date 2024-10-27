@@ -611,6 +611,13 @@
     },
     {
       "title": "",
+      "pattern": "*.home-connect.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.hybrid-analysis.com",
       "type": 1,
       "protocols": 1,

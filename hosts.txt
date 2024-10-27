@@ -251,6 +251,7 @@ grammarly.com
 guilded.gg
 habr.com
 healthline.com
+home-connect.com
 hybrid-analysis.com
 icd10data.com
 insanelymac.com
