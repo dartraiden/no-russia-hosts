@@ -145,11 +145,14 @@ qt.io
 # support.ruckuswireless.com
 ruckuswireless.com
 
-# 3dwarehouse.sketchup.com
-sketchup.com
+# aftermarket.schaeffler.com
+schaeffler.com
 
 # radarr.servarr.com
 servarr.com
+
+# 3dwarehouse.sketchup.com
+sketchup.com
 
 # community.sophos.com
 sophos.com
