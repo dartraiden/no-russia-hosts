@@ -188,6 +188,9 @@ webex.com
 # www.support.xerox.com
 xerox.com
 
+# app.zerossl.com
+zerossl.com
+
 # gallery.zetalliance.org
 zetalliance.org
 
