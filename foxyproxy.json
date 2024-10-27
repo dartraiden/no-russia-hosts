@@ -415,6 +415,13 @@
     },
     {
       "title": "",
+      "pattern": "*.etsy.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.fanatical.com",
       "type": 1,
       "protocols": 1,
