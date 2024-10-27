@@ -1395,6 +1395,13 @@
     },
     {
       "title": "",
+      "pattern": "*.zf.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.zoosk.com",
       "type": 1,
       "protocols": 1,
