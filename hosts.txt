@@ -149,6 +149,9 @@ ruckuswireless.com
 # aftermarket.schaeffler.com
 schaeffler.com
 
+# download.screamingfrog.co.uk
+screamingfrog.co.uk
+
 # radarr.servarr.com
 servarr.com
 
