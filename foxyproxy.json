@@ -520,6 +520,13 @@
     },
     {
       "title": "",
+      "pattern": "*.githubcopilot.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.gitlab.com",
       "type": 1,
       "protocols": 1,

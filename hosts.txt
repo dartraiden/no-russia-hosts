@@ -68,6 +68,7 @@ googleapis.com
 
 # Github Copilot
 github.com
+githubcopilot.com
 
 # https://packages.gitlab.com/gitlab/gitlab-ee/
 gitlab.com
