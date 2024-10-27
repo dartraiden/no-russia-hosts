@@ -176,6 +176,9 @@ themoviedb.org
 # images.tmdb.org
 tmdb.org
 
+# fw-download.ubnt.com
+ubnt.com
+
 # downloads.ultraedit.com
 ultraedit.com
 

@@ -1297,6 +1297,13 @@
     },
     {
       "title": "",
+      "pattern": "*.ubnt.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.ultraedit.com",
       "type": 1,
       "protocols": 1,
