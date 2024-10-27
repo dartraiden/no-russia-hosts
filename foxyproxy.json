@@ -674,6 +674,13 @@
     },
     {
       "title": "",
+      "pattern": "*.jabra.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.jetbrains.com",
       "type": 1,
       "protocols": 1,

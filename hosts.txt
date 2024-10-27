@@ -267,6 +267,7 @@ hybrid-analysis.com
 icd10data.com
 insanelymac.com
 intel.com
+jabra.com
 joesandbox.com
 jsfiddle.net
 keepgrowing.in
