@@ -305,6 +305,7 @@ radarr.video
 ratatype.com
 readdle.com
 redis.com
+redis.io
 refinitiv.com
 remove.bg
 resp.app
