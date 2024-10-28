@@ -113,6 +113,9 @@ jetbrains.com
 # https://joyreactor.cc/search?q=путин
 joyreactor.cc
 
+# downloads.malwarebytes.com
+malwarebytes.com
+
 # documentation.meraki.com
 meraki.com
 

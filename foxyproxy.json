@@ -800,6 +800,13 @@
     },
     {
       "title": "",
+      "pattern": "*.malwarebytes.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.malwarebytes.org",
       "type": 1,
       "protocols": 1,
