@@ -13,6 +13,9 @@ amd.com
 # itunes.apple.com/search
 apple.com
 
+# App installation from marketplace.atlassian.com
+atlassian.com
+
 # bits.avcdn.net
 avcdn.net
 
