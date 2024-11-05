@@ -254,6 +254,7 @@ dnb.com
 docker.io
 dumpforums.to
 etsy.com
+extremetech.com
 fanatical.com
 findagrave.com
 flexpool.io
