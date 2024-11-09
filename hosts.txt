@@ -1,4 +1,4 @@
-# https://4pda.to/forum/index.php?showforum=1192
+# 4pda.to/forum/index.php?showforum=1192
 4pda.to
 
 # platform.activestate.com
@@ -82,7 +82,7 @@ github.com
 githubcopilot.com
 githubusercontent.com
 
-# https://packages.gitlab.com/gitlab/gitlab-ee/
+# packages.gitlab.com/gitlab/gitlab-ee/
 gitlab.com
 
 # gllto.glpals.com
@@ -105,7 +105,7 @@ grazie.ai
 
 # Groupon
 groupon.com
-# https://img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
+# img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
 grouponcdn.com
 
 # releases.hashicorp.com
@@ -126,7 +126,7 @@ infineon.com
 # download.jetbrains.com
 jetbrains.com
 
-# https://joyreactor.cc/search?q=путин
+# joyreactor.cc/search?q=путин
 joyreactor.cc
 
 # downloads.malwarebytes.com
@@ -142,6 +142,9 @@ microsoft.com
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
+
+# install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
+nvidia.com
 
 # files.oaiusercontent.com
 oaiusercontent.com
