@@ -50,6 +50,9 @@ cisco.com
 # database.clamav.net
 clamav.net
 
+# www3.corsair.com
+corsair.com
+
 # dl.dell.com
 dell.com
 
