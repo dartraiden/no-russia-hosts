@@ -321,6 +321,7 @@ qualcomm.com
 radarr.video
 ratatype.com
 readdle.com
+recraft.ai
 redis.com
 redis.io
 refinitiv.com
