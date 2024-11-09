@@ -180,7 +180,7 @@ servarr.com
 # xcelerator.siemens.com
 siemens.com
 
-# 3dwarehouse.sketchup.com
+# 3dwarehouse.sketchup.com, extensions.sketchup.com
 sketchup.com
 
 # community.sophos.com, intelix.sophos.com
