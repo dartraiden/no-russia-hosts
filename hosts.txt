@@ -325,6 +325,7 @@ securitytrails.com
 sendy.jp
 sentry.io
 setapp.com
+singlekey-id.com
 slideshare.net
 smartbear.com
 snort.org
