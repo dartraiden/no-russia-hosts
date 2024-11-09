@@ -71,10 +71,6 @@ furaffinity.net
 # support.ts.fujitsu.com
 fujitsu.com
 
-# Gemini
-gemini.google.com
-googleapis.com
-
 # Github Copilot, see https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
 github.com
 githubcopilot.com
@@ -85,6 +81,10 @@ gitlab.com
 
 # gllto.glpals.com
 glpals.com
+
+# bard.google.com, gemini.google.com, lookerstudio.google.com
+google.com
+googleapis.com
 
 # mviskarada.gov.ua
 gov.ua
@@ -226,7 +226,6 @@ analog.com
 angryemailtranslator.com
 annimon.com
 aplawrence.com
-bard.google.com
 bestbuy.com
 blizzardwatch.com
 bluesky-soft.com

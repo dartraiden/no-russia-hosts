@@ -541,13 +541,6 @@
     },
     {
       "title": "",
-      "pattern": "*.gemini.google.com",
-      "type": 1,
-      "protocols": 1,
-      "active": true
-    },
-    {
-      "title": "",
       "pattern": "*.ghidra-sre.org",
       "type": 1,
       "protocols": 1,
@@ -584,6 +577,13 @@
     {
       "title": "",
       "pattern": "*.glpals.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
+      "pattern": "*.google.com",
       "type": 1,
       "protocols": 1,
       "active": true
