@@ -114,6 +114,9 @@ hashicorp.com
 # hex-rays.com/vulnfix/
 hex-rays.com
 
+# ghostrc.game.idtech.services
+idtech.services
+
 # www.imagecache365.com
 imagecache365.com
 
