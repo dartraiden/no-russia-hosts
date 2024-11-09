@@ -338,6 +338,7 @@ steganos.com
 stockx.com
 strava.com
 stuff.co.nz
+swagger.io
 sysdig.com
 systemtek.co.uk
 tableau.com

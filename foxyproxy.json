@@ -1269,6 +1269,13 @@
     },
     {
       "title": "",
+      "pattern": "*.swagger.io",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.sysdig.com",
       "type": 1,
       "protocols": 1,
