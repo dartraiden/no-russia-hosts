@@ -207,6 +207,9 @@ themoviedb.org
 # images.tmdb.org
 tmdb.org
 
+# community.teamviewer.com
+teamviewer.com
+
 # fw-download.ubnt.com
 ubnt.com
 
