@@ -16,6 +16,9 @@ apple.com
 # App installation from marketplace.atlassian.com
 atlassian.com
 
+# w.atwiki.jp
+atwiki.jp
+
 # bits.avcdn.net
 avcdn.net
 

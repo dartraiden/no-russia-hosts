@@ -107,6 +107,13 @@
     },
     {
       "title": "",
+      "pattern": "*.atwiki.jp",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.avcdn.net",
       "type": 1,
       "protocols": 1,
