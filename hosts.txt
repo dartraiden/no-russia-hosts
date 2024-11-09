@@ -126,6 +126,7 @@ microsoft.com
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
+mongodb.net
 
 # files.oaiusercontent.com
 oaiusercontent.com
