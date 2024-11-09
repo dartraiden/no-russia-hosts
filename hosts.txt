@@ -321,6 +321,7 @@ resp.app
 samsclub.com
 securitytrails.com
 sendy.jp
+sentry.io
 setapp.com
 slideshare.net
 smartbear.com
