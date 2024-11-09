@@ -50,6 +50,9 @@ cisco.com
 # database.clamav.net
 clamav.net
 
+# coral.cohere.com, dashboard.cohere.com
+cohere.com
+
 # www3.corsair.com
 corsair.com
 
