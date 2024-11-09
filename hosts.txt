@@ -69,9 +69,10 @@ fujitsu.com
 gemini.google.com
 googleapis.com
 
-# Github Copilot
+# Github Copilot, see https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
 github.com
 githubcopilot.com
+githubusercontent.com
 
 # https://packages.gitlab.com/gitlab/gitlab-ee/
 gitlab.com
