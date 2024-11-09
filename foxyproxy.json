@@ -989,6 +989,13 @@
     },
     {
       "title": "",
+      "pattern": "*.pcbway.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "",
       "pattern": "*.perforce.com",
       "type": 1,
       "protocols": 1,
