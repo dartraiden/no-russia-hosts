@@ -159,7 +159,7 @@ qt.io
 # support.ruckuswireless.com
 ruckuswireless.com
 
-# aftermarket.schaeffler.com
+# aftermarket.schaeffler.com, vehiclelifetimesolutions.schaeffler.com
 schaeffler.com
 
 # download.screamingfrog.co.uk
