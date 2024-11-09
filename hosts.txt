@@ -171,7 +171,7 @@ servarr.com
 # 3dwarehouse.sketchup.com
 sketchup.com
 
-# community.sophos.com
+# community.sophos.com, intelix.sophos.com
 sophos.com
 
 # pkgs.tailscale.com
