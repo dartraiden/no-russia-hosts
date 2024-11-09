@@ -106,6 +106,9 @@ grafana.com
 # auth.grazie.ai
 grazie.ai
 
+# chat.groq.com
+groq.com
+
 # Groupon
 groupon.com
 # img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
