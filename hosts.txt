@@ -19,6 +19,9 @@ atlassian.com
 # w.atwiki.jp
 atwiki.jp
 
+# accounts.autodesk.com
+autodesk.com
+
 # bits.avcdn.net
 avcdn.net
 
