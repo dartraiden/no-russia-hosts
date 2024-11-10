@@ -184,6 +184,9 @@ qt.io
 # support.ruckuswireless.com
 ruckuswireless.com
 
+# blogs.sap.com
+sap.com
+
 # aftermarket.schaeffler.com, vehiclelifetimesolutions.schaeffler.com
 schaeffler.com
 
