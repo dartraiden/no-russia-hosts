@@ -144,6 +144,9 @@ malwarebytes.com
 # documentation.meraki.com
 meraki.com
 
+# sam2.metademolab.com
+metademolab.com
+
 # copilot.microsoft.com
 # software-static.download.prss.microsoft.com
 microsoft.com
