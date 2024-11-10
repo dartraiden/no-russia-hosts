@@ -19,7 +19,9 @@ atlassian.com
 # w.atwiki.jp
 atwiki.jp
 
-# accounts.autodesk.com, dl.appstreaming.autodesk.com, efulfillment.autodesk.com
+# accounts.autodesk.com
+# dl.appstreaming.autodesk.com
+# efulfillment.autodesk.com
 autodesk.com
 
 # bits.avcdn.net
@@ -50,7 +52,8 @@ cisco.com
 # database.clamav.net
 clamav.net
 
-# coral.cohere.com, dashboard.cohere.com
+# coral.cohere.com
+# dashboard.cohere.com
 cohere.com
 
 # www3.corsair.com
@@ -94,7 +97,9 @@ gitlab.com
 # gllto.glpals.com
 glpals.com
 
-# bard.google.com, gemini.google.com, lookerstudio.google.com
+# bard.google.com
+# gemini.google.com
+# lookerstudio.google.com
 google.com
 googleapis.com
 
@@ -202,7 +207,8 @@ ruckuswireless.com
 # blogs.sap.com
 sap.com
 
-# aftermarket.schaeffler.com, vehiclelifetimesolutions.schaeffler.com
+# aftermarket.schaeffler.com
+# vehiclelifetimesolutions.schaeffler.com
 schaeffler.com
 
 # download.screamingfrog.co.uk
@@ -217,10 +223,12 @@ servarr.com
 # xcelerator.siemens.com
 siemens.com
 
-# 3dwarehouse.sketchup.com, extensions.sketchup.com
+# 3dwarehouse.sketchup.com
+# extensions.sketchup.com
 sketchup.com
 
-# community.sophos.com, intelix.sophos.com
+# community.sophos.com
+# intelix.sophos.com
 sophos.com
 
 # pkgs.tailscale.com
@@ -297,6 +305,7 @@ broccolionline.jp
 buf.build
 cambiumnetworks.com
 canva.com
+canva-apps.com
 cdromance.org
 certifytheweb.com
 chatgpt.com
