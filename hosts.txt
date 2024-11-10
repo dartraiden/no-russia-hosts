@@ -33,6 +33,9 @@ bing.com
 # portal.bgpmon.net
 bgpmon.net
 
+# ai-chat.bsg.brave.com
+brave.com
+
 # game.brawlstarsgame.com blocks access to the game on mobile devices
 brawlstarsgame.com
 
