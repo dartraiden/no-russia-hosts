@@ -190,6 +190,9 @@ schaeffler.com
 # download.screamingfrog.co.uk
 screamingfrog.co.uk
 
+# store.serif.com/get/universal-licence-2/trial/
+serif.com
+
 # radarr.servarr.com
 servarr.com
 
