@@ -68,6 +68,9 @@ elastic.co
 # some giveaways from store.epicgames.com are not available
 epicgames.com
 
+# familysearch.org/identity/signup/
+familysearch.org
+
 # sites.fastspring.com
 fastspring.com
 
