@@ -19,7 +19,7 @@ atlassian.com
 # w.atwiki.jp
 atwiki.jp
 
-# accounts.autodesk.com
+# accounts.autodesk.com, dl.appstreaming.autodesk.com
 autodesk.com
 
 # bits.avcdn.net
