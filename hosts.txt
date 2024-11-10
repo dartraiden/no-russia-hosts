@@ -374,6 +374,7 @@ pluralsight.com
 phishtank.com
 qcad.org
 qualcomm.com
+quicknode.com
 radarr.video
 ratatype.com
 readdle.com
