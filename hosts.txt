@@ -200,6 +200,9 @@ paraswap.io
 # builds.parsec.app
 parsec.app
 
+# support.ptc.com
+ptc.com
+
 # download.qt.io
 # master.qt.io
 qt.io
