@@ -138,6 +138,9 @@ jetbrains.com
 # joyreactor.cc/search?q=путин
 joyreactor.cc
 
+# myworld.leica-geosystems.com
+leica-geosystems.com
+
 # llama3-1.llamameta.net
 llamameta.net
 
