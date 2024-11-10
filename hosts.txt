@@ -365,6 +365,7 @@ nxp.com
 oaistatic.com
 oasis.app
 oclc.org
+octopart.com
 outflank.nl
 pandasecurity.com
 pcbway.com
