@@ -358,6 +358,7 @@ guilded.gg
 habr.com
 healthline.com
 home-connect.com
+hume.ai
 hybrid-analysis.com
 icd10data.com
 indeed.com
