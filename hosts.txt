@@ -238,6 +238,9 @@ viperatech.com
 # cart.webex.com
 webex.com
 
+# cloud.webscraper.io
+webscraper.io
+
 # www.support.xerox.com
 xerox.com
 
