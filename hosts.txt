@@ -306,6 +306,7 @@ digikey.com
 disctech.com
 dnb.com
 docker.io
+element14.com
 elevenlabs.io
 etsy.com
 extremetech.com
