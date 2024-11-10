@@ -282,6 +282,7 @@ citrix.com
 claude.ai
 clevelandclinic.org
 cmems-du.eu
+cocalc.com
 copernicus.eu
 cpu-monkey.com
 crowdstrike.com
