@@ -147,6 +147,9 @@ malwarebytes.com
 # documentation.meraki.com
 meraki.com
 
+# aidemos.meta.com
+meta.com
+
 # sam2.metademolab.com
 metademolab.com
 
