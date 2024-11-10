@@ -165,6 +165,9 @@ microsoft.com
 mongodb.com
 mongodb.net
 
+# login.norton.com
+norton.com
+
 # install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
 nvidia.com
 
