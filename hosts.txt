@@ -154,6 +154,7 @@ microsoft.com
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
+mongodb.net
 
 # install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
 nvidia.com
