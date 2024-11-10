@@ -120,6 +120,9 @@ hashicorp.com
 # hex-rays.com/vulnfix/
 hex-rays.com
 
+# api.home-connect.cn
+home-connect.cn
+
 # ghostrc.game.idtech.services
 idtech.services
 
