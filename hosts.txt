@@ -220,6 +220,9 @@ tmdb.org
 # community.teamviewer.com
 teamviewer.com
 
+# store.ubi.com
+ubi.com
+
 # fw-download.ubnt.com
 ubnt.com
 
