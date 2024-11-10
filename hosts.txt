@@ -135,6 +135,9 @@ jetbrains.com
 # joyreactor.cc/search?q=путин
 joyreactor.cc
 
+# llama3-1.llamameta.net
+llamameta.net
+
 # downloads.malwarebytes.com
 malwarebytes.com
 
