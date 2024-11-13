@@ -40,6 +40,7 @@ brave.com
 brawlstarsgame.com
 
 # login.broadcom.com
+# packages-prod.broadcom.com/tools/
 broadcom.com
 
 # forums.chaos.com
