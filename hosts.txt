@@ -27,6 +27,9 @@ autodesk.com
 # bits.avcdn.net
 avcdn.net
 
+# eu.shop.battle.net/ru-ru/product/warcraft-1-remastered
+battle.net
+
 # bing.com/chat
 bing.com
 
