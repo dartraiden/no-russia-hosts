@@ -293,6 +293,7 @@ zetalliance.org
 zf.com
 
 # Other
+2407.pl
 acurapartswarehouse.com
 adafruit.com
 agar.io
