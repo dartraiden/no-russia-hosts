@@ -211,6 +211,9 @@ ptc.com
 # master.qt.io
 qt.io
 
+# releases.raycast.com
+raycast.com
+
 # support.ruckuswireless.com
 ruckuswireless.com
 
