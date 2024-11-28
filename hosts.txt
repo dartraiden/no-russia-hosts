@@ -244,6 +244,9 @@ sketchup.com
 # intelix.sophos.com
 sophos.com
 
+# members.summerana.com
+summerana.com
+
 # pkgs.tailscale.com
 tailscale.com
 
