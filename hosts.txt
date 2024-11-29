@@ -59,6 +59,9 @@ cisco.com
 # database.clamav.net
 clamav.net
 
+# unleash.codeium.com
+codeium.com
+
 # coral.cohere.com
 # dashboard.cohere.com
 cohere.com
