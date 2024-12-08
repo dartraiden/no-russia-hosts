@@ -286,6 +286,10 @@ vaio.com
 # viperatech.com/tickets
 viperatech.com
 
+# docs.vmware.com
+# softwareupdate.vmware.com
+vmware.com
+
 # cart.webex.com
 webex.com
 
