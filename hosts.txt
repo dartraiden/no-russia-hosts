@@ -207,6 +207,9 @@ paraswap.io
 # builds.parsec.app
 parsec.app
 
+# gateway.pinata.cloud
+pinata.cloud
+
 # support.ptc.com
 ptc.com
 
