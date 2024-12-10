@@ -283,6 +283,11 @@ tmdb.org
 # community.teamviewer.com
 teamviewer.com
 
+# tiktok.com/@maximusic2019/video/7389281875589729568
+tiktok.com
+tiktokv.com
+ttwstatic.com
+
 # store.ubi.com
 ubi.com
 
