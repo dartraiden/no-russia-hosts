@@ -195,6 +195,9 @@ mongodb.net
 # login.norton.com
 norton.com
 
+# notion.so/signup
+notion.so
+
 # install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
 nvidia.com
 
