@@ -172,7 +172,9 @@ leica-geosystems.com
 llamameta.net
 
 # downloads.malwarebytes.com
+# data-cdn.mbamupdates.com
 malwarebytes.com
+mbamupdates.com
 
 # documentation.meraki.com
 meraki.com
