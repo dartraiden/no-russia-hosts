@@ -308,6 +308,9 @@ webex.com
 # cloud.webscraper.io
 webscraper.io
 
+# xboxdesignlab.xbox.com
+xbox.com
+
 # www.support.xerox.com
 xerox.com
 
