@@ -50,6 +50,9 @@ broadcom.com
 # try.chaos.com
 chaos.com
 
+# dashboard.chatfuel.com
+chatfuel.com
+
 # community.cisco.com
 # id.cisco.com
 # secure-web.cisco.com
