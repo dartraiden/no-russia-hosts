@@ -459,6 +459,7 @@ reka.ai
 remove.bg
 resp.app
 samsclub.com
+schenker-tech.de
 securitytrails.com
 sendy.jp
 sentry.io
