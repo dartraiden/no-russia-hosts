@@ -10,6 +10,9 @@ amazon.com
 # login.amd.com
 amd.com
 
+# console.anthropic.com
+anthropic.com
+
 # itunes.apple.com/search
 apple.com
 
