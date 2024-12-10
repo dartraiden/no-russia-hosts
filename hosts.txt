@@ -256,6 +256,9 @@ sophos.com
 # members.summerana.com
 summerana.com
 
+# store.supercell.com
+supercell.com
+
 # pkgs.tailscale.com
 tailscale.com
 
