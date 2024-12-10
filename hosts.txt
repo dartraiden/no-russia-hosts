@@ -341,6 +341,7 @@ buf.build
 cambiumnetworks.com
 canva.com
 canva-apps.com
+capacitorjs.com
 capcut.com
 cdromance.org
 certifytheweb.com
