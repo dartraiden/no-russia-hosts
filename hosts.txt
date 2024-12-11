@@ -206,6 +206,9 @@ nvidia.com
 # files.oaiusercontent.com
 oaiusercontent.com
 
+# ripcordchat.onfastspring.com/ripcord
+onfastspring.com
+
 # api.openai.com
 # auth0.openai.com
 # chat.openai.com
