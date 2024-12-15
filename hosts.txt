@@ -475,6 +475,7 @@ oasis.app
 oclc.org
 octopart.com
 octopart-clicks.com
+octostatic.com
 oculus.com
 omv-extras.org
 outflank.nl
