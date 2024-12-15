@@ -321,6 +321,10 @@ webex.com
 # cloud.webscraper.io
 webscraper.io
 
+# accounts.x.ai
+# console.x.ai
+x.ai
+
 # xboxdesignlab.xbox.com
 xbox.com
 
