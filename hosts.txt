@@ -526,6 +526,7 @@ soapui.org
 solarwinds.com
 spiceworks.com
 splunk.com
+splunkcloud.com
 spotify.com
 st.com
 stalker2.com
