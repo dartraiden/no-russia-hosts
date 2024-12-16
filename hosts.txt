@@ -388,6 +388,7 @@ cisecurity.org
 citrix.com
 claude.ai
 clevelandclinic.org
+clickup.com
 cmems-du.eu
 cocalc.com
 copernicus.eu
