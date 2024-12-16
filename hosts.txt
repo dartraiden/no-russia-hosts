@@ -134,6 +134,7 @@ grafana.com
 grazie.ai
 
 # chat.groq.com
+# console.groq.com
 groq.com
 
 # Groupon
