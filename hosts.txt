@@ -159,6 +159,9 @@ imagecache365.com
 # community.infineon.com
 infineon.com
 
+# api.app.prod.grazie.aws.intellij.net
+intellij.net
+
 # download.jetbrains.com
 jetbrains.com
 
