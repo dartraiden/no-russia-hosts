@@ -533,6 +533,7 @@ smartbear.com
 snort.org
 soapui.org
 solarwinds.com
+sora.com
 spiceworks.com
 splunk.com
 splunkcloud.com
