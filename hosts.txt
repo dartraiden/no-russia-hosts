@@ -578,6 +578,7 @@ unscreen.com
 vagrantcloud.com
 vans.com
 vans.de
+vans.it
 vectorworks.net
 veeam.com
 veritas.com
