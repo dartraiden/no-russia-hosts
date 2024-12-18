@@ -578,6 +578,7 @@ unscreen.com
 vagrantcloud.com
 vans.com
 vans.de
+vans.fr
 vans.it
 vans.nl
 vans.se
