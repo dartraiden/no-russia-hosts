@@ -244,6 +244,9 @@ qt.io
 # releases.raycast.com
 raycast.com
 
+# gold.razer.com
+razer.com
+
 # support.ruckuswireless.com
 ruckuswireless.com
 
