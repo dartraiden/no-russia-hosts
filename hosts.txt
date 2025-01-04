@@ -14,7 +14,7 @@ amd.com
 anthropic.com
 
 # itunes.apple.com/search
-apple.com
+# apple.com
 
 # App installation from marketplace.atlassian.com
 atlassian.com
@@ -539,6 +539,7 @@ resp.app
 reverb.com
 salesforce.com
 samsclub.com
+sbom.sh
 schenker-tech.de
 securitytrails.com
 seekvectorlogo.net
