@@ -30,6 +30,9 @@ autodesk.com
 # bits.avcdn.net
 avcdn.net
 
+# repo.bacch.com
+bacch.com
+
 # eu.shop.battle.net/ru-ru/product/warcraft-1-remastered
 battle.net
 
