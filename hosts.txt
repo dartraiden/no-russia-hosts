@@ -178,6 +178,9 @@ joyreactor.cc
 # myworld.leica-geosystems.com
 leica-geosystems.com
 
+# forum.lightburnsoftware.com
+lightburnsoftware.com
+
 # llama3-1.llamameta.net
 llamameta.net
 
