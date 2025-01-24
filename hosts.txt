@@ -333,6 +333,9 @@ viperatech.com
 # softwareupdate.vmware.com
 vmware.com
 
+# walmart.com/orders
+walmart.com
+
 # cart.webex.com
 webex.com
 
