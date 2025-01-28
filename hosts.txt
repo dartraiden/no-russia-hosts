@@ -68,6 +68,9 @@ cisco.com
 # database.clamav.net
 clamav.net
 
+# cxstudio.clarabridge.net
+clarabridge.net
+
 # unleash.codeium.com
 codeium.com
 
