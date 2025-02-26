@@ -69,9 +69,6 @@ clamav.net
 # cxstudio.clarabridge.net
 clarabridge.net
 
-# unleash.codeium.com
-codeium.com
-
 # coral.cohere.com
 # dashboard.cohere.com
 cohere.com
