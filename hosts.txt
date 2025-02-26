@@ -120,7 +120,7 @@ glpals.com
 google.com
 googleapis.com
 
-# ai.google.dev
+# discuss.ai.google.dev
 google.dev
 
 # mviskarada.gov.ua
