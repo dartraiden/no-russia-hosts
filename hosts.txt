@@ -39,9 +39,6 @@ battle.net
 # bing.com/chat
 bing.com
 
-# portal.bgpmon.net
-bgpmon.net
-
 # ai-chat.bsg.brave.com
 brave.com
 
