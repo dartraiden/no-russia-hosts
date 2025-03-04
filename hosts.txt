@@ -152,6 +152,9 @@ hex-rays.com
 # api.home-connect.cn
 home-connect.cn
 
+# auth.hpe.com
+hpe.com
+
 # ghostrc.game.idtech.services
 idtech.services
 
