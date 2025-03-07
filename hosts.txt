@@ -173,6 +173,9 @@ jetbrains.com
 # joyreactor.cc/search?q=путин
 joyreactor.cc
 
+# app.langdock.com
+langdock.com
+
 # myworld.leica-geosystems.com
 leica-geosystems.com
 
