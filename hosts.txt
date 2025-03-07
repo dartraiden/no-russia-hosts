@@ -190,6 +190,9 @@ llamameta.net
 malwarebytes.com
 mbamupdates.com
 
+# matrix-client.matrix.org/_matrix/client/v3/register
+matrix.org
+
 # documentation.meraki.com
 meraki.com
 
