@@ -193,6 +193,9 @@ mbamupdates.com
 # documentation.meraki.com
 meraki.com
 
+# me.meshcapade.com
+meshcapade.com
+
 # aidemos.meta.com
 meta.com
 
