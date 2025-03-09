@@ -22,6 +22,9 @@ atlassian.com
 # w.atwiki.jp
 atwiki.jp
 
+# app.augmentcode.com
+augmentcode.com
+
 # accounts.autodesk.com
 # dl.appstreaming.autodesk.com
 # efulfillment.autodesk.com
