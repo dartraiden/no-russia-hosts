@@ -496,6 +496,7 @@ iaai.com
 ibm.com
 icd10data.com
 iherb.com
+ikea.com
 indeed.com
 informit.com
 insanelymac.com
