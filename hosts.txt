@@ -176,6 +176,9 @@ jetbrains.com
 # joyreactor.cc/search?q=путин
 joyreactor.cc
 
+# manage.kmail-lists.com
+kmail-lists.com
+
 # app.langdock.com
 langdock.com
 
