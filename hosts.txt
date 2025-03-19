@@ -670,6 +670,7 @@ walletconnect.com
 watchguard.com
 we.tl
 weather.com
+wellfound.com
 wetransfer.com
 wikidot.com
 windguru.cz
