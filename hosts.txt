@@ -547,6 +547,7 @@ myprepaidcenter.com
 myrotvorets.center
 nba.com
 netflix.com
+ngrok.com
 nordvpn.com
 nxp.com
 oaistatic.com
