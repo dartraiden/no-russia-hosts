@@ -509,6 +509,7 @@ informit.com
 insanelymac.com
 intel.com
 intel.se
+iperf3serverlist.net
 jabra.com
 joesandbox.com
 jsfiddle.net
