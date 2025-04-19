@@ -637,6 +637,7 @@ strava.com
 studychat.app
 stuff.co.nz
 swagger.io
+syncfusion.com
 sysdig.com
 systemtek.co.uk
 tableau.com
