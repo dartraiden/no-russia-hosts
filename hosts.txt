@@ -164,6 +164,9 @@ idtech.services
 # www.imagecache365.com
 imagecache365.com
 
+# api.imgur.com, see https://github.com/ShareX/ShareX/issues/7910
+imgur.com
+
 # community.infineon.com
 infineon.com
 
