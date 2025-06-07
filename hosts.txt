@@ -1,4 +1,4 @@
- # 4pda.to/forum/index.php?showforum=1192
+# 4pda.to/forum/index.php?showforum=1192
 4pda.to
 
 # platform.activestate.com
@@ -172,6 +172,9 @@ infineon.com
 
 # api.app.prod.grazie.aws.intellij.net
 intellij.net
+
+# api.jetbrains.ai, see https://youtrack.jetbrains.com/articles/SUPPORT-A-297/How-to-allow-access-to-JetBrains-AI-Assistant-in-the-company-network-firewall-proxy
+jetbrains.ai
 
 # download.jetbrains.com
 jetbrains.com
