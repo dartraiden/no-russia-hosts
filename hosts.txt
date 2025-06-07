@@ -515,6 +515,7 @@ ikea.com
 indeed.com
 informit.com
 insanelymac.com
+insideevs.com
 intel.com
 intel.se
 intellipaat.com
