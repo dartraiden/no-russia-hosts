@@ -614,6 +614,7 @@ resp.app
 reverb.com
 salesforce.com
 samsclub.com
+sbom.sh
 schenker-tech.de
 securitytrails.com
 seekvectorlogo.net
