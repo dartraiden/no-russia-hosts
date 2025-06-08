@@ -1,705 +1,705 @@
 # 4pda.to/forum/index.php?showforum=1192
-4pda.to
+*.4pda.to
 
 # platform.activestate.com
-activestate.com
+*.activestate.com
 
 # gaming.amazon.com
-amazon.com
+*.amazon.com
 
 # login.amd.com
-amd.com
+*.amd.com
 
 # console.anthropic.com
-anthropic.com
+*.anthropic.com
 
 # itunes.apple.com/search
-apple.com
+*.apple.com
 
 # App installation from marketplace.atlassian.com
-atlassian.com
+*.atlassian.com
 
 # w.atwiki.jp
-atwiki.jp
+*.atwiki.jp
 
 # app.augmentcode.com
-augmentcode.com
+*.augmentcode.com
 
 # accounts.autodesk.com
 # dl.appstreaming.autodesk.com
 # efulfillment.autodesk.com
-autodesk.com
+*.autodesk.com
 
 # bits.avcdn.net
-avcdn.net
+*.avcdn.net
 
 # repo.bacch.com
-bacch.com
+*.bacch.com
 
 # eu.shop.battle.net/ru-ru/product/warcraft-1-remastered
-battle.net
+*.battle.net
 
 # bing.com/chat
-bing.com
+*.bing.com
 
 # ai-chat.bsg.brave.com
-brave.com
+*.brave.com
 
 # game.brawlstarsgame.com blocks access to the game on mobile devices
-brawlstarsgame.com
+*.brawlstarsgame.com
 
 # login.broadcom.com
 # packages-prod.broadcom.com/tools/
-broadcom.com
+*.broadcom.com
 
 # forums.chaos.com
 # try.chaos.com
-chaos.com
+*.chaos.com
 
 # dashboard.chatfuel.com
-chatfuel.com
+*.chatfuel.com
 
 # community.cisco.com
 # crosswork.cisco.com
 # id.cisco.com
 # secure-web.cisco.com
 # tools.cisco.com
-cisco.com
+*.cisco.com
 
 # database.clamav.net
-clamav.net
+*.clamav.net
 
 # cxstudio.clarabridge.net
-clarabridge.net
+*.clarabridge.net
 
 # coral.cohere.com
 # dashboard.cohere.com
-cohere.com
+*.cohere.com
 
 # www3.corsair.com
-corsair.com
+*.corsair.com
 
 # app.deepsource.com
-deepsource.com
+*.deepsource.com
 
 # dl.dell.com
-dell.com
+*.dell.com
 
 # afcs.dellcdn.com
-dellcdn.com
+*.dellcdn.com
 
 # artifacts.elastic.co
-elastic.co
+*.elastic.co
 
 # some giveaways from store.epicgames.com are not available
-epicgames.com
+*.epicgames.com
 
 # familysearch.org/identity/signup/
-familysearch.org
+*.familysearch.org
 
 # sites.fastspring.com
-fastspring.com
+*.fastspring.com
 
 # docs.fortinet.com
-fortinet.com
+*.fortinet.com
 
 # support.ts.fujitsu.com
-fujitsu.com
+*.fujitsu.com
 
 # Github Copilot, see https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
-github.com
-githubcopilot.com
-githubusercontent.com
+*.github.com
+*.githubcopilot.com
+*.githubusercontent.com
 
 # packages.gitlab.com/gitlab/gitlab-ee/
-gitlab.com
+*.gitlab.com
 
 # gllto.glpals.com
-glpals.com
+*.glpals.com
 
 # bard.google.com
 # gemini.google.com
 # lookerstudio.google.com
-google.com
-googleapis.com
+*.google.com
+*.googleapis.com
 
 # discuss.ai.google.dev
-google.dev
+*.google.dev
 
 # mviskarada.gov.ua
-gov.ua
+*.gov.ua
 
 # apt.grafana.com
 # dl.grafana.com
 # rpm.grafana.com
-grafana.com
+*.grafana.com
 
 # auth.grazie.ai
-grazie.ai
+*.grazie.ai
 
 # chat.groq.com
 # console.groq.com
-groq.com
+*.groq.com
 
 # Groupon
 groupon.com
 # img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
-grouponcdn.com
+*.grouponcdn.com
 
 # releases.hashicorp.com
-hashicorp.com
+*.hashicorp.com
 
 # hex-rays.com/vulnfix/
-hex-rays.com
+*.hex-rays.com
 
 # api.home-connect.cn
-home-connect.cn
+*.home-connect.cn
 
 # auth.hpe.com
-hpe.com
+*.hpe.com
 
 # ghostrc.game.idtech.services
-idtech.services
+*.idtech.services
 
 # www.imagecache365.com
-imagecache365.com
+*.imagecache365.com
 
 # api.imgur.com, see https://github.com/ShareX/ShareX/issues/7910
-imgur.com
+*.imgur.com
 
 # community.infineon.com
-infineon.com
+*.infineon.com
 
 # api.app.prod.grazie.aws.intellij.net
-intellij.net
+*.intellij.net
 
 # api.jetbrains.ai, see https://youtrack.jetbrains.com/articles/SUPPORT-A-297/How-to-allow-access-to-JetBrains-AI-Assistant-in-the-company-network-firewall-proxy
-jetbrains.ai
+*.jetbrains.ai
 
 # download.jetbrains.com
-jetbrains.com
+*.jetbrains.com
 
 # joyreactor.cc/search?q=путин
-joyreactor.cc
+*.joyreactor.cc
 
 # manage.kmail-lists.com
-kmail-lists.com
+*.kmail-lists.com
 
 # app.langdock.com
-langdock.com
+*.langdock.com
 
 # myworld.leica-geosystems.com
-leica-geosystems.com
+*.leica-geosystems.com
 
 # forum.lightburnsoftware.com
-lightburnsoftware.com
+*.lightburnsoftware.com
 
 # llama3-1.llamameta.net
-llamameta.net
+*.llamameta.net
 
 # downloads.malwarebytes.com
 # data-cdn.mbamupdates.com
-malwarebytes.com
-mbamupdates.com
+*.malwarebytes.com
+*.mbamupdates.com
 
 # matrix-client.matrix.org/_matrix/client/v3/register
-matrix.org
+*.matrix.org
 
 # documentation.meraki.com
-meraki.com
+*.meraki.com
 
 # me.meshcapade.com
-meshcapade.com
+*.meshcapade.com
 
 # aidemos.meta.com
-meta.com
+*.meta.com
 
 # sam2.metademolab.com
-metademolab.com
+*.metademolab.com
 
 # copilot.microsoft.com
 # software-static.download.prss.microsoft.com
-microsoft.com
+*.microsoft.com
 
 # account.mongodb.com
 # cloud.mongodb.com
-mongodb.com
-mongodb.net
+*.mongodb.com
+*.mongodb.net
 
 # login.norton.com
-norton.com
+*.norton.com
 
 # notion.so/signup
-notion.so
+*.notion.so
 
 # developer.nvidia.com
 # install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
-nvidia.com
+*.nvidia.com
 
 # files.oaiusercontent.com
-oaiusercontent.com
+*.oaiusercontent.com
 
 # ripcordchat.onfastspring.com/ripcord
-onfastspring.com
+*.onfastspring.com
 
 # api.openai.com
 # auth0.openai.com
 # chat.openai.com
-openai.com
+*.openai.com
 
 # cloud.oracle.com (oraclecloud.com blocks login attempts from Russia)
-oracle.com
-oraclecloud.com
+*.oracle.com
+*.oraclecloud.com
 
 # app.paraswap.io
-paraswap.io
+*.paraswap.io
 
 # builds.parsec.app
-parsec.app
+*.parsec.app
 
 # gateway.pinata.cloud
-pinata.cloud
+*.pinata.cloud
 
 # support.ptc.com
-ptc.com
+*.ptc.com
 
 # download.qt.io
 # master.qt.io
-qt.io
+*.qt.io
 
 # releases.raycast.com
-raycast.com
+*.raycast.com
 
 # gold.razer.com
-razer.com
+*.razer.com
 
 # support.ruckuswireless.com
-ruckuswireless.com
+*.ruckuswireless.com
 
 # blogs.sap.com
-sap.com
+*.sap.com
 
 # aftermarket.schaeffler.com
 # vehiclelifetimesolutions.schaeffler.com
-schaeffler.com
+*.schaeffler.com
 
 # download.screamingfrog.co.uk
-screamingfrog.co.uk
+*.screamingfrog.co.uk
 
 # store.serif.com/get/universal-licence-2/trial/
-serif.com
+*.serif.com
 
 # radarr.servarr.com
-servarr.com
+*.servarr.com
 
 # xcelerator.siemens.com
-siemens.com
+*.siemens.com
 
 # 3dwarehouse.sketchup.com
 # extensions.sketchup.com
-sketchup.com
+*.sketchup.com
 
 # community.sophos.com
 # intelix.sophos.com
-sophos.com
+*.sophos.com
 
 # members.summerana.com
-summerana.com
+*.summerana.com
 
 # store.supercell.com
-supercell.com
+*.supercell.com
 
 # pkgs.tailscale.com
-tailscale.com
+*.tailscale.com
 
 # account.templatemonster.com
-templatemonster.com
+*.templatemonster.com
 
 # app.terraform.io
-terraform.io
+*.terraform.io
 
 # api.themoviedb.org
-themoviedb.org
+*.themoviedb.org
 
 # images.tmdb.org
-tmdb.org
+*.tmdb.org
 
 # community.teamviewer.com
 # download.teamviewer.com
-teamviewer.com
+*.teamviewer.com
 
 # tiktok.com/@maximusic2019/video/7389281875589729568
-tiktok.com
-tiktokv.com
-ttwstatic.com
+*.tiktok.com
+*.tiktokv.com
+*.ttwstatic.com
 
 # store.ubi.com
-ubi.com
+*.ubi.com
 
 # fw-download.ubnt.com
-ubnt.com
+*.ubnt.com
 
 # downloads.ultraedit.com
-ultraedit.com
+*.ultraedit.com
 
 # csdlcdn.vaio.com
-vaio.com
+*.vaio.com
 
 # viperatech.com/tickets
-viperatech.com
+*.viperatech.com
 
 # docs.vmware.com
 # softwareupdate.vmware.com
-vmware.com
+*.vmware.com
 
 # walmart.com/orders
-walmart.com
+*.walmart.com
 
 # cart.webex.com
-webex.com
+*.webex.com
 
 # cloud.webscraper.io
-webscraper.io
+*.webscraper.io
 
 # accounts.x.ai
 # console.x.ai
-x.ai
+*.x.ai
 
 # xboxdesignlab.xbox.com
-xbox.com
+*.xbox.com
 
 # accountmanagement.services.xerox.com/sites/customerportal?hc_login
 # www.support.xerox.com
-xerox.com
+*.xerox.com
 
 # app.zerossl.com
-zerossl.com
+*.zerossl.com
 
 # gallery.zetalliance.org
-zetalliance.org
+*.zetalliance.org
 
 # aftermarket.zf.com
-zf.com
+*.zf.com
 
 # Other
-2407.pl
-6pm.com
-8chan.moe
-acurapartswarehouse.com
-adam-audio.com
-adafruit.com
-agar.io
-airbrake.io
-alberta.ca
-alienwarearena.com
-alltrails.com
-alphacoders.com
-altaro.com
-amazfitwatchfaces.com
-analog.com
-angryemailtranslator.com
-annimon.com
-ansys.com
-anythingllm.com
-apiary.io
-aplawrence.com
-av-connection.com
-beacon3d.com
-bestbuy.com
-blackfriday.com
-blizzardwatch.com
-bluesky-soft.com
-blur.io
-boosteroid.com
-bosch.de
-bosch-home.com
-bradyid.com
-bricklink.com
-broccolionline.jp
-buf.build
-buymeacoffee.com
-cambiumnetworks.com
-canva.com
-canva-apps.com
-capacitorjs.com
-capcut.com
-cdromance.org
-census.gov
-certifytheweb.com
-cesium.com
-chatgpt.com
-cisecurity.org
-citrix.com
-claude.ai
-clevelandclinic.org
-clickup.com
-cmems-du.eu
-cocalc.com
-codebrowser.dev
-copernicus.eu
-cpu-monkey.com
-crowdstrike.com
-crunchbase.com
-crunchyroll.com
-cybersecurity-help.cz
-darkproject.eu
-databricks.com
-dating.com
-daz3d.com
-deepsource.io
-deezer.com
-designify.com
-devart.com
-devexpress.com
-devops.com
-dice.com
-dickssportinggoods.com
-diffblue.com
-digikey.com
-disctech.com
-dnb.com
-docker.io
-dyson.com
-dyson.nl
-dyson.se
-e-hentai.org
-easyjet.com
-element14.com
-elevenlabs.io
-elgiganten.se
-engagor.com
-entrust.com
-etsy.com
-extremetech.com
-fanatical.com
-fast.com
-fastflux.ai
-findagrave.com
-flexpool.io
-flourish.studio
-fls.guru
-fluke.com
-formula1.com
-fortiguard.com
-fotoforensics.com
-foxnews.com
-foxtrot.com.ua
-framer.com
-freeimages.com
-freemyip.com
-futurelearn.com
-g2a.com
-g711.org
-gambody.com
-game.co.uk
-gamestop.com
-genspark.ai
-geospy.ai
-getsafeonline.org
-ghidra-sre.org
-grammarly.com
-guilded.gg
-habr.com
-hashkey.com
-healthline.com
-home-connect.com
-humblebundle.com
-hume.ai
-hybrid-analysis.com
-hyundainews.com
-iaai.com
-ibm.com
-icd10data.com
-iherb.com
-ikea.com
-indeed.com
-informit.com
-insanelymac.com
-insideevs.com
-intel.com
-intel.se
-intellipaat.com
-iperf3serverlist.net
-jabra.com
-joesandbox.com
-jsfiddle.net
-keepgrowing.in
-keepsolid.com
-kemono.su
-klaviyo.com
-kmail-lists.com
-kowalski7cc.xyz
-kroger.com
-ldoceonline.com
-lenso.ai
-letyshops.com
-lightning.ai
-linuxiac.com
-lipstickalley.com
-liquidsky.com
-logo.com
-lowes.com
-m3u.in
-macpaw.com
-macvendors.com
-malwarebytes.org
-mattermost.com
-maximintegrated.com
-mbed.com
-meest-shop.com
-megogo.net
-metopera.org
-michaelkors.global
-microchip.com
-militarnyi.com
-moneypuck.com
-monotype.com
-monotypefonts.com
-monster.ie
-mouser.com
-myfonts.com
-myprepaidcenter.com
-myrotvorets.center
-nba.com
-netflix.com
-ngrok.com
-nordvpn.com
-nxp.com
-oaistatic.com
-oasis.app
-oclc.org
-octopart.com
-octopart-clicks.com
-octostatic.com
-oculus.com
-omnissa.com
-omv-extras.org
-onshape.com
-ottg.app
-outflank.nl
-padi.com
-pandasecurity.com
-parts-express.com
-pcbway.com
-pcgamesn.com
-pcmag.com
-perforce.com
-peter-tanner.com
-pexels.com
-philscomputerlab.com
-pimeyes.com
-pixabay.com
-photonengine.com
-plugin-alliance.com
-pluralsight.com
-phishtank.com
-pny.com
-promods.net
-pump.fun
-qaweb.dev
-qcad.org
-qobuz.com
-qualcomm.com
-quicknode.com
-radarr.video
-ratatype.com
-readdle.com
-readybot.io
-recraft.ai
-redis.com
-redis.io
-refinitiv.com
-reka.ai
-remove.bg
-resp.app
-reverb.com
-salesforce.com
-samsclub.com
-sbom.sh
-schenker-tech.de
-securitytrails.com
-seekvectorlogo.net
-semrush.com
-sendy.jp
-sentry.io
-serato.com
-serialcart.com
-serverkast.com
-setapp.com
-shiksha.com
-showtime.com
-singlekey-id.com
-skyshowtime.com
-slideshare.net
-smartbear.com
-snort.org
-soapui.org
-solarwinds.com
-sora.com
-spiceworks.com
-splunk.com
-splunkcloud.com
-spotify.com
-st.com
-stalker2.com
-steamidfinder.com
-steganos.com
-stereophile.com
-stockx.com
-strava.com
-studychat.app
-stuff.co.nz
-swagger.io
-syncfusion.com
-sysdig.com
-systemtek.co.uk
-tableau.com
-target.com
-te.com
-tenable.com
-teslasoft.org
-theaudiodb.com
-thesassway.com
-thinkpads.com
-thomas-krenn.com
-ti.com
-tidal.com
-timberland.com
-tommy.com
-tria.ge
-trionworlds.com
-truthsocial.com
-tvn24.pl
-ultimaker.com
-unscreen.com
-vagrantcloud.com
-vans.com
-vans.de
-vans.fr
-vans.it
-vans.nl
-vans.se
-vectorworks.net
-veeam.com
-veritas.com
-vpnunlimited.com
-vyos.io
-wakanim.tv
-walletconnect.com
-watchguard.com
-wdfiles.com
-we.tl
-weather.com
-wellfound.com
-wetransfer.com
-wikidot.com
-windguru.cz
-wk.cz
-wonderclub.com
-wunderground.com
-xfantazy.com
-xmg.gg
-yeggi.com
-yithemes.com
-yourdictionary.com
-zoosk.com
+*.2407.pl
+*.6pm.com
+*.8chan.moe
+*.acurapartswarehouse.com
+*.adam-audio.com
+*.adafruit.com
+*.agar.io
+*.airbrake.io
+*.alberta.ca
+*.alienwarearena.com
+*.alltrails.com
+*.alphacoders.com
+*.altaro.com
+*.amazfitwatchfaces.com
+*.analog.com
+*.angryemailtranslator.com
+*.annimon.com
+*.ansys.com
+*.anythingllm.com
+*.apiary.io
+*.aplawrence.com
+*.av-connection.com
+*.beacon3d.com
+*.bestbuy.com
+*.blackfriday.com
+*.blizzardwatch.com
+*.bluesky-soft.com
+*.blur.io
+*.boosteroid.com
+*.bosch.de
+*.bosch-home.com
+*.bradyid.com
+*.bricklink.com
+*.broccolionline.jp
+*.buf.build
+*.buymeacoffee.com
+*.cambiumnetworks.com
+*.canva.com
+*.canva-apps.com
+*.capacitorjs.com
+*.capcut.com
+*.cdromance.org
+*.census.gov
+*.certifytheweb.com
+*.cesium.com
+*.chatgpt.com
+*.cisecurity.org
+*.citrix.com
+*.claude.ai
+*.clevelandclinic.org
+*.clickup.com
+*.cmems-du.eu
+*.cocalc.com
+*.codebrowser.dev
+*.copernicus.eu
+*.cpu-monkey.com
+*.crowdstrike.com
+*.crunchbase.com
+*.crunchyroll.com
+*.cybersecurity-help.cz
+*.darkproject.eu
+*.databricks.com
+*.dating.com
+*.daz3d.com
+*.deepsource.io
+*.deezer.com
+*.designify.com
+*.devart.com
+*.devexpress.com
+*.devops.com
+*.dice.com
+*.dickssportinggoods.com
+*.diffblue.com
+*.digikey.com
+*.disctech.com
+*.dnb.com
+*.docker.io
+*.dyson.com
+*.dyson.nl
+*.dyson.se
+*.e-hentai.org
+*.easyjet.com
+*.element14.com
+*.elevenlabs.io
+*.elgiganten.se
+*.engagor.com
+*.entrust.com
+*.etsy.com
+*.extremetech.com
+*.fanatical.com
+*.fast.com
+*.fastflux.ai
+*.findagrave.com
+*.flexpool.io
+*.flourish.studio
+*.fls.guru
+*.fluke.com
+*.formula1.com
+*.fortiguard.com
+*.fotoforensics.com
+*.foxnews.com
+*.foxtrot.com.ua
+*.framer.com
+*.freeimages.com
+*.freemyip.com
+*.futurelearn.com
+*.g2a.com
+*.g711.org
+*.gambody.com
+*.game.co.uk
+*.gamestop.com
+*.genspark.ai
+*.geospy.ai
+*.getsafeonline.org
+*.ghidra-sre.org
+*.grammarly.com
+*.guilded.gg
+*.habr.com
+*.hashkey.com
+*.healthline.com
+*.home-connect.com
+*.humblebundle.com
+*.hume.ai
+*.hybrid-analysis.com
+*.hyundainews.com
+*.iaai.com
+*.ibm.com
+*.icd10data.com
+*.iherb.com
+*.ikea.com
+*.indeed.com
+*.informit.com
+*.insanelymac.com
+*.insideevs.com
+*.intel.com
+*.intel.se
+*.intellipaat.com
+*.iperf3serverlist.net
+*.jabra.com
+*.joesandbox.com
+*.jsfiddle.net
+*.keepgrowing.in
+*.keepsolid.com
+*.kemono.su
+*.klaviyo.com
+*.kmail-lists.com
+*.kowalski7cc.xyz
+*.kroger.com
+*.ldoceonline.com
+*.lenso.ai
+*.letyshops.com
+*.lightning.ai
+*.linuxiac.com
+*.lipstickalley.com
+*.liquidsky.com
+*.logo.com
+*.lowes.com
+*.m3u.in
+*.macpaw.com
+*.macvendors.com
+*.malwarebytes.org
+*.mattermost.com
+*.maximintegrated.com
+*.mbed.com
+*.meest-shop.com
+*.megogo.net
+*.metopera.org
+*.michaelkors.global
+*.microchip.com
+*.militarnyi.com
+*.moneypuck.com
+*.monotype.com
+*.monotypefonts.com
+*.monster.ie
+*.mouser.com
+*.myfonts.com
+*.myprepaidcenter.com
+*.myrotvorets.center
+*.nba.com
+*.netflix.com
+*.ngrok.com
+*.nordvpn.com
+*.nxp.com
+*.oaistatic.com
+*.oasis.app
+*.oclc.org
+*.octopart.com
+*.octopart-clicks.com
+*.octostatic.com
+*.oculus.com
+*.omnissa.com
+*.omv-extras.org
+*.onshape.com
+*.ottg.app
+*.outflank.nl
+*.padi.com
+*.pandasecurity.com
+*.parts-express.com
+*.pcbway.com
+*.pcgamesn.com
+*.pcmag.com
+*.perforce.com
+*.peter-tanner.com
+*.pexels.com
+*.philscomputerlab.com
+*.pimeyes.com
+*.pixabay.com
+*.photonengine.com
+*.plugin-alliance.com
+*.pluralsight.com
+*.phishtank.com
+*.pny.com
+*.promods.net
+*.pump.fun
+*.qaweb.dev
+*.qcad.org
+*.qobuz.com
+*.qualcomm.com
+*.quicknode.com
+*.radarr.video
+*.ratatype.com
+*.readdle.com
+*.readybot.io
+*.recraft.ai
+*.redis.com
+*.redis.io
+*.refinitiv.com
+*.reka.ai
+*.remove.bg
+*.resp.app
+*.reverb.com
+*.salesforce.com
+*.samsclub.com
+*.sbom.sh
+*.schenker-tech.de
+*.securitytrails.com
+*.seekvectorlogo.net
+*.semrush.com
+*.sendy.jp
+*.sentry.io
+*.serato.com
+*.serialcart.com
+*.serverkast.com
+*.setapp.com
+*.shiksha.com
+*.showtime.com
+*.singlekey-id.com
+*.skyshowtime.com
+*.slideshare.net
+*.smartbear.com
+*.snort.org
+*.soapui.org
+*.solarwinds.com
+*.sora.com
+*.spiceworks.com
+*.splunk.com
+*.splunkcloud.com
+*.spotify.com
+*.st.com
+*.stalker2.com
+*.steamidfinder.com
+*.steganos.com
+*.stereophile.com
+*.stockx.com
+*.strava.com
+*.studychat.app
+*.stuff.co.nz
+*.swagger.io
+*.syncfusion.com
+*.sysdig.com
+*.systemtek.co.uk
+*.tableau.com
+*.target.com
+*.te.com
+*.tenable.com
+*.teslasoft.org
+*.theaudiodb.com
+*.thesassway.com
+*.thinkpads.com
+*.thomas-krenn.com
+*.ti.com
+*.tidal.com
+*.timberland.com
+*.tommy.com
+*.tria.ge
+*.trionworlds.com
+*.truthsocial.com
+*.tvn24.pl
+*.ultimaker.com
+*.unscreen.com
+*.vagrantcloud.com
+*.vans.com
+*.vans.de
+*.vans.fr
+*.vans.it
+*.vans.nl
+*.vans.se
+*.vectorworks.net
+*.veeam.com
+*.veritas.com
+*.vpnunlimited.com
+*.vyos.io
+*.wakanim.tv
+*.walletconnect.com
+*.watchguard.com
+*.wdfiles.com
+*.we.tl
+*.weather.com
+*.wellfound.com
+*.wetransfer.com
+*.wikidot.com
+*.windguru.cz
+*.wk.cz
+*.wonderclub.com
+*.wunderground.com
+*.xfantazy.com
+*.xmg.gg
+*.yeggi.com
+*.yithemes.com
+*.yourdictionary.com
+*.zoosk.com
