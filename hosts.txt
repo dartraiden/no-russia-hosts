@@ -542,6 +542,7 @@ groupon.com
 *.m3u.in
 *.macpaw.com
 *.macvendors.com
+*.malw.lol
 *.malwarebytes.org
 *.mattermost.com
 *.maximintegrated.com
