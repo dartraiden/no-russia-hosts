@@ -142,7 +142,7 @@
 *.groq.com
 
 # Groupon
-groupon.com
+*.groupon.com
 # img.grouponcdn.com/pdf_assets/MEtai2WzBuZ63ubdaqHG/Fz
 *.grouponcdn.com
 
