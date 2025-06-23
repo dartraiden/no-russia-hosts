@@ -446,6 +446,7 @@ darkproject.eu
 databricks.com
 dating.com
 daz3d.com
+deepl.com
 deepsource.io
 deezer.com
 designify.com
