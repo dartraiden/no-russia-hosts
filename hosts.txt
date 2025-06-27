@@ -333,6 +333,9 @@ tiktok.com
 tiktokv.com
 ttwstatic.com
 
+# twitch.tv
+ttvnw.net
+
 # store.ubi.com
 ubi.com
 
