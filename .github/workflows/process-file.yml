@@ -1,0 +1,34 @@
+name: Generate hosts-wildcard.txt
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'hosts.txt'
+
+jobs:
+  process-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Process file
+      run: |
+        sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d; s/^/*. /' hosts.txt | sort > hosts-wildcard.txt
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        COMMIT_MESSAGE=$(git log -1 --pretty=format:"%s")
+        
+        if [ -n "$(git status --porcelain hosts-wildcard.txt)" ]; then
+          git add hosts-wildcard.txt
+          git commit -m "$COMMIT_MESSAGE"
+          git push origin ${{ github.ref }}
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
