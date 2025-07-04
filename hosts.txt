@@ -333,7 +333,7 @@ tiktok.com
 tiktokv.com
 ttwstatic.com
 
-# twitch.tv
+# FullHD on Twitch, see https://habr.com/news/922338/
 ttvnw.net
 
 # store.ubi.com
