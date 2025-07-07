@@ -431,6 +431,7 @@ census.gov
 certifytheweb.com
 cesium.com
 chatgpt.com
+cici.com
 cisecurity.org
 citrix.com
 claude.ai
