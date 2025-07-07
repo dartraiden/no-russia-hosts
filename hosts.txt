@@ -106,6 +106,9 @@ fortinet.com
 # support.ts.fujitsu.com
 fujitsu.com
 
+# main domain (pinata.cloud) does not like access from hosters' IP ranges
+gateway.pinata.cloud
+
 # Github Copilot, see https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
 github.com
 githubcopilot.com
@@ -256,9 +259,6 @@ paraswap.io
 
 # builds.parsec.app
 parsec.app
-
-# gateway.pinata.cloud
-pinata.cloud
 
 # support.ptc.com
 ptc.com
