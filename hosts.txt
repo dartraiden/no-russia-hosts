@@ -257,9 +257,6 @@ paraswap.io
 # builds.parsec.app
 parsec.app
 
-# gateway.pinata.cloud
-pinata.cloud
-
 # support.ptc.com
 ptc.com
 
@@ -497,6 +494,7 @@ g711.org
 gambody.com
 game.co.uk
 gamestop.com
+gateway.pinata.cloud
 genspark.ai
 geospy.ai
 getsafeonline.org
