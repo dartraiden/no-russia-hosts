@@ -270,6 +270,9 @@ qt.io
 # releases.raycast.com
 raycast.com
 
+# x.raycast-releases.com
+raycast-releases.com
+
 # gold.razer.com
 razer.com
 
