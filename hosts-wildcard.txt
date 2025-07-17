@@ -309,6 +309,7 @@
 *.quicknode.com
 *.radarr.video
 *.ratatype.com
+*.raycast-releases.com
 *.raycast.com
 *.razer.com
 *.readdle.com
