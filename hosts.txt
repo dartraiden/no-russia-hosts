@@ -610,6 +610,7 @@ qcad.org
 qobuz.com
 qualcomm.com
 quicknode.com
+qwant.com
 radarr.video
 ratatype.com
 readdle.com
