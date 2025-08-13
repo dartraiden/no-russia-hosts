@@ -4,6 +4,9 @@
 # platform.activestate.com
 activestate.com
 
+# app.ahrefs.com
+ahrefs.com
+
 # gaming.amazon.com
 amazon.com
 
