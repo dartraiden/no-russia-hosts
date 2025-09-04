@@ -203,6 +203,9 @@ lightburnsoftware.com
 # llama3-1.llamameta.net
 llamameta.net
 
+# wiki.malw.link/network/vpns
+malw.link
+
 # downloads.malwarebytes.com
 # data-cdn.mbamupdates.com
 malwarebytes.com
