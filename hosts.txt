@@ -31,7 +31,9 @@ augmentcode.com
 # accounts.autodesk.com
 # dl.appstreaming.autodesk.com
 # efulfillment.autodesk.com
+# damassets.autodesk.net
 autodesk.com
+autodesk.net
 
 # bits.avcdn.net
 avcdn.net
