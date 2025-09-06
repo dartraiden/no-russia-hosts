@@ -18,6 +18,7 @@
 *.amazon.com
 *.amd.com
 *.analog.com
+*.andrevi.ch
 *.angryemailtranslator.com
 *.annimon.com
 *.ansys.com
