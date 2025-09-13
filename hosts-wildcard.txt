@@ -320,6 +320,7 @@
 *.readdle.com
 *.readybot.io
 *.recraft.ai
+*.redhat.com
 *.redis.com
 *.redis.io
 *.refinitiv.com
