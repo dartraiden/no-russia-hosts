@@ -108,6 +108,9 @@ fastspring.com
 # docs.fortinet.com
 fortinet.com
 
+# forum.ansible.com
+ansible.com
+
 # support.ts.fujitsu.com
 fujitsu.com
 
