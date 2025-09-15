@@ -13,6 +13,9 @@ amazon.com
 # login.amd.com
 amd.com
 
+# forum.ansible.com
+ansible.com
+
 # console.anthropic.com
 anthropic.com
 
