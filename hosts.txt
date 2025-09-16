@@ -111,6 +111,9 @@ fastspring.com
 # docs.fortinet.com
 fortinet.com
 
+# forum.ansible.com
+ansible.com
+
 # support.ts.fujitsu.com
 fujitsu.com
 
@@ -628,6 +631,7 @@ ratatype.com
 readdle.com
 readybot.io
 recraft.ai
+redhat.com
 redis.com
 redis.io
 refinitiv.com
