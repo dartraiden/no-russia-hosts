@@ -264,6 +264,9 @@ onfastspring.com
 # chat.openai.com
 openai.com
 
+# ciscobinary.openh264.org
+openh264.org
+
 # cloud.oracle.com (oraclecloud.com blocks login attempts from Russia)
 oracle.com
 oraclecloud.com
