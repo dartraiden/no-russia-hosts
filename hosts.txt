@@ -517,6 +517,7 @@ genspark.ai
 geospy.ai
 getsafeonline.org
 ghidra-sre.org
+gofundme.com
 grammarly.com
 guilded.gg
 habr.com
