@@ -4,6 +4,9 @@
 # platform.activestate.com
 activestate.com
 
+# some Photoshop AI tools (Harmonization and Generative Fill)
+adobe.io
+
 # app.ahrefs.com
 ahrefs.com
 
