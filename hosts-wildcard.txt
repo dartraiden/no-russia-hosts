@@ -303,6 +303,7 @@
 *.philscomputerlab.com
 *.phishtank.com
 *.photonengine.com
+*.picoxr.com
 *.pimeyes.com
 *.pixabay.com
 *.plugin-alliance.com
