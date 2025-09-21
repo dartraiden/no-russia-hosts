@@ -158,6 +158,7 @@
 *.githubusercontent.com
 *.gitlab.com
 *.glpals.com
+*.gofundme.com
 *.google.com
 *.google.dev
 *.googleapis.com
