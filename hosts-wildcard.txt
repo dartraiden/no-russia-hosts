@@ -6,6 +6,7 @@
 *.acurapartswarehouse.com
 *.adafruit.com
 *.adam-audio.com
+*.adobe.io
 *.agar.io
 *.ahrefs.com
 *.airbrake.io
