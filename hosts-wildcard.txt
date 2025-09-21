@@ -282,6 +282,7 @@
 *.onshape.com
 *.openai.com
 *.openculture.com
+*.openh264.org
 *.oracle.com
 *.oraclecloud.com
 *.ottg.app
