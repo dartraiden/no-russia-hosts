@@ -260,6 +260,7 @@
 *.myprepaidcenter.com
 *.myrotvorets.center
 *.nba.com
+*.ndi.tv
 *.netflix.com
 *.ngrok.com
 *.nordvpn.com
