@@ -4,7 +4,7 @@
 # platform.activestate.com
 activestate.com
 
-# some Photoshop AI tools (Harmonization and Generative Fill)
+# Some Photoshop AI tools (Harmonization and Generative Fill)
 adobe.io
 
 # app.ahrefs.com
@@ -102,7 +102,7 @@ dellcdn.com
 # artifacts.elastic.co
 elastic.co
 
-# some giveaways from store.epicgames.com are not available
+# Some giveaways from store.epicgames.com are not available
 epicgames.com
 
 # familysearch.org/identity/signup/
@@ -117,7 +117,7 @@ fortinet.com
 # support.ts.fujitsu.com
 fujitsu.com
 
-# main domain (pinata.cloud) does not like access from hosters' IP ranges
+# Main domain (pinata.cloud) does not like access from hosters' IP ranges, so add subdomain only
 gateway.pinata.cloud
 
 # Github Copilot, see https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
