@@ -577,6 +577,7 @@ m3u.in
 macpaw.com
 macvendors.com
 malwarebytes.org
+manus.im
 mattermost.com
 maximintegrated.com
 mbed.com
