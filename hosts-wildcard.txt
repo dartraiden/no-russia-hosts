@@ -235,6 +235,7 @@
 *.malw.link
 *.malwarebytes.com
 *.malwarebytes.org
+*.manus.im
 *.matrix.org
 *.mattermost.com
 *.maximintegrated.com
