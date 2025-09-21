@@ -280,6 +280,9 @@ paraswap.io
 # builds.parsec.app
 parsec.app
 
+# App installation from store-global.picoxr.com
+picoxr.com
+
 # support.ptc.com
 ptc.com
 
