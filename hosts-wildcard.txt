@@ -113,6 +113,7 @@
 *.dyson.nl
 *.dyson.se
 *.e-hentai.org
+*.easydmarc.com
 *.easyjet.com
 *.elastic.co
 *.element14.com
