@@ -16,7 +16,7 @@ jobs:
       
     - name: Process file
       run: |
-        sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d; s/^/*./' hosts.txt | sort > hosts-wildcard.txt
+        sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d; s/^/*/' hosts.txt | sort > hosts-wildcard.txt
     
     - name: Commit and push changes
       run: |
@@ -32,3 +32,4 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
