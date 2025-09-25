@@ -54,6 +54,9 @@ battle.net
 # bing.com/chat
 bing.com
 
+# Bitnami
+bitnami.com
+
 # ai-chat.bsg.brave.com
 brave.com
 
