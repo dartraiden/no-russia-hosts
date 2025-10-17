@@ -361,7 +361,7 @@ tiktokv.com
 ttwstatic.com
 
 # FullHD on Twitch, see https://habr.com/news/922338/
-ttvnw.net
+usher.ttvnw.net
 
 # store.ubi.com
 ubi.com
