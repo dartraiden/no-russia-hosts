@@ -413,7 +413,6 @@
 *tria.ge
 *trionworlds.com
 *truthsocial.com
-*ttvnw.net
 *ttwstatic.com
 *tvn24.pl
 *ubi.com
@@ -422,6 +421,7 @@
 *ultraedit.com
 *undress.cc
 *unscreen.com
+*usher.ttvnw.net
 *vagrantcloud.com
 *vaio.com
 *vans.com
