@@ -170,6 +170,7 @@
 *grafana.com
 *grammarly.com
 *grazie.ai
+*grok.com
 *groq.com
 *groupon.com
 *grouponcdn.com
