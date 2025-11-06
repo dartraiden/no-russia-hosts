@@ -436,6 +436,7 @@
 *veritas.com
 *viperatech.com
 *vmware.com
+*volet.com
 *vpnunlimited.com
 *vyos.io
 *wakanim.tv
