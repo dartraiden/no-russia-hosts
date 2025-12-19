@@ -256,6 +256,7 @@
 *microchip.com
 *microsoft.com
 *militarnyi.com
+*mint.com
 *moneypuck.com
 *mongodb.com
 *mongodb.net
@@ -269,6 +270,7 @@
 *nba.com
 *ndi.tv
 *netflix.com
+*neuesbad.de
 *ngrok.com
 *nordvpn.com
 *norton.com
@@ -302,6 +304,7 @@
 *pcbway.com
 *pcgamesn.com
 *pcmag.com
+*pepephone.com
 *perforce.com
 *peter-tanner.com
 *pexels.com
@@ -414,6 +417,7 @@
 *tria.ge
 *trionworlds.com
 *truthsocial.com
+*tsheets.com
 *ttwstatic.com
 *tvn24.pl
 *ubi.com
