@@ -23,14 +23,14 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-
+        
         COMMIT_MESSAGE=$(git log -1 --pretty=format:"%s")
         
-        if [ -n "$(git status --porcelain hosts-wildcard.txt)" || -n "$(git status --porcelain mihomo-wildcard.txt)" ]; then
-          git add hosts-wildcard.txt mihomo-wildcard.txt
+        git add hosts-wildcard.txt mihomo-wildcard.txt
+
+        if ! git diff --cached --quiet; then
           git commit -m "$COMMIT_MESSAGE"
           git push origin ${{ github.ref }}
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
