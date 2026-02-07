@@ -406,6 +406,8 @@
 *teslasoft.org
 *theaudiodb.com
 *themoviedb.org
+*thenorthface.com
+*thenorthfacerenewed.com
 *thesassway.com
 *thinkpads.com
 *thomas-krenn.com
