@@ -140,6 +140,7 @@
 +.formula1.com
 +.fortiguard.com
 +.fortinet.com
++.fosshub.com
 +.fotoforensics.com
 +.foxnews.com
 +.foxtrot.com.ua
