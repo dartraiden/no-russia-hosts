@@ -221,6 +221,7 @@
 +.kowalski7cc.xyz
 +.kroger.com
 +.langdock.com
++.last.fm
 +.ldoceonline.com
 +.leica-geosystems.com
 +.lenso.ai
