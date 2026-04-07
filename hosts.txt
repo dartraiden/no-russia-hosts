@@ -447,6 +447,7 @@ bosch.de
 bosch-home.com
 bradyid.com
 bricklink.com
+brickset.com
 broccolionline.jp
 buf.build
 buymeacoffee.com
@@ -572,6 +573,7 @@ kowalski7cc.xyz
 kroger.com
 last.fm
 ldoceonline.com
+lego.com
 lenso.ai
 letyshops.com
 lightning.ai
