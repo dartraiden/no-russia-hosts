@@ -439,6 +439,7 @@ zf.com
 
 # Other
 2407.pl
+3parug.com
 6pm.com
 8chan.moe
 acurapartswarehouse.com
@@ -486,6 +487,7 @@ bricklink.com
 broccolionline.jp
 buf.build
 buymeacoffee.com
+cacti.net
 cadence.com
 cambiumnetworks.com
 canva.com
@@ -672,6 +674,7 @@ myprepaidcenter.com
 myrotvorets.center
 nba.com
 netflix.com
+netscaler.com
 neuesbad.de
 newark.com
 nic.ua
@@ -760,6 +763,7 @@ skyshowtime.com
 slideshare.net
 smartbear.com
 snort.org
+snyk.io
 soapui.org
 solarwinds.com
 sora.com
@@ -836,6 +840,7 @@ wise.com
 wk.cz
 wonderclub.com
 wunderground.com
+xenserver.com
 xfantazy.com
 xmg.gg
 xrite.com
