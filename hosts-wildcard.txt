@@ -28,7 +28,6 @@
 *anythingllm.com
 *apiary.io
 *aplawrence.com
-*apple.com
 *atlassian.com
 *atwiki.jp
 *augmentcode.com
