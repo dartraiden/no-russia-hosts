@@ -794,6 +794,8 @@ technobezz.com
 tenable.com
 teslasoft.org
 theaudiodb.com
+thenorthface.com
+thenorthfacerenewed.com
 thesassway.com
 thinkpads.com
 thomas-krenn.com
@@ -849,5 +851,3 @@ yithemes.com
 yourdictionary.com
 zomato.com
 zoosk.com
-thenorthface.com
-thenorthfacerenewed.com
