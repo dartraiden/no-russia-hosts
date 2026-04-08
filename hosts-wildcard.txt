@@ -53,6 +53,7 @@
 *brave.com
 *brawlstarsgame.com
 *bricklink.com
+*brickset.com
 *broadcom.com
 *broccolionline.jp
 *buf.build
@@ -225,6 +226,7 @@
 *langdock.com
 *last.fm
 *ldoceonline.com
+*lego.com
 *leica-geosystems.com
 *lenso.ai
 *letyshops.com
