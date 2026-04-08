@@ -257,7 +257,7 @@
 +.intel.ch
 +.intel.cl
 +.intel.cm
-+.intel.cn @cn
++.intel.cn
 +.intel.co
 +.intel.co.ae
 +.intel.co.cr
