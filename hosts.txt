@@ -22,9 +22,6 @@ ansible.com
 # console.anthropic.com
 anthropic.com
 
-# itunes.apple.com/search
-apple.com
-
 # App installation from marketplace.atlassian.com
 atlassian.com
 
@@ -484,6 +481,7 @@ bosch-professional.com
 bsh-group.com
 bradyid.com
 bricklink.com
+brickset.com
 broccolionline.jp
 buf.build
 buymeacoffee.com
@@ -601,6 +599,7 @@ hashkey.com
 healthline.com
 home-connect.com
 hostinger.com
+httptoolkit.com
 humblebundle.com
 hume.ai
 hybrid-analysis.com
@@ -634,6 +633,7 @@ kowalski7cc.xyz
 kroger.com
 last.fm
 ldoceonline.com
+lego.com
 lenso.ai
 letyshops.com
 lightning.ai

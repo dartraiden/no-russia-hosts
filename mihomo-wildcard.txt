@@ -28,7 +28,6 @@
 +.anythingllm.com
 +.apiary.io
 +.aplawrence.com
-+.apple.com
 +.atlassian.com
 +.atwiki.jp
 +.augmentcode.com
@@ -53,6 +52,7 @@
 +.brave.com
 +.brawlstarsgame.com
 +.bricklink.com
++.brickset.com
 +.broadcom.com
 +.broccolionline.jp
 +.buf.build
@@ -185,6 +185,7 @@
 +.home-connect.cn
 +.home-connect.com
 +.hpe.com
++.httptoolkit.com
 +.humblebundle.com
 +.hume.ai
 +.hybrid-analysis.com
@@ -224,6 +225,7 @@
 +.langdock.com
 +.last.fm
 +.ldoceonline.com
++.lego.com
 +.leica-geosystems.com
 +.lenso.ai
 +.letyshops.com
