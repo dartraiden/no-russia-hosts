@@ -185,6 +185,7 @@
 *home-connect.cn
 *home-connect.com
 *hpe.com
+*httptoolkit.com
 *humblebundle.com
 *hume.ai
 *hybrid-analysis.com
