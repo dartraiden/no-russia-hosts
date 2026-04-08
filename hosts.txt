@@ -97,6 +97,9 @@ dell.com
 # afcs.dellcdn.com
 dellcdn.com
 
+# www.delltechnologies.com
+delltechnologies.com
+
 # artifacts.elastic.co
 elastic.co
 
@@ -107,6 +110,7 @@ epicgames.com
 familysearch.org
 
 # sites.fastspring.com
+# store.fastspring.com
 fastspring.com
 
 # docs.fortinet.com
@@ -252,7 +256,11 @@ notion.so
 
 # developer.nvidia.com
 # install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
+# nvidianews.nvidia.com
 nvidia.com
+
+# ntfsformac.tuxera.com
+ntfsformac.tuxera.com
 
 # files.oaiusercontent.com
 oaiusercontent.com
@@ -280,6 +288,9 @@ parsec.app
 
 # App installation from store-global.picoxr.com
 picoxr.com
+
+# sites.prh.com
+prh.com
 
 # support.ptc.com
 ptc.com
@@ -369,6 +380,9 @@ ubnt.com
 # downloads.ultraedit.com
 ultraedit.com
 
+# www.usa.canon.com
+usa.canon.com
+
 # csdlcdn.vaio.com
 vaio.com
 
@@ -379,6 +393,12 @@ viperatech.com
 # softwareupdate.vmware.com
 vmware.com
 
+# metallica-api.wbagora.com
+wbagora.com
+
+# account.wbgames.com
+wbgames.com
+
 # walmart.com/orders
 walmart.com
 
@@ -387,6 +407,12 @@ webex.com
 
 # cloud.webscraper.io
 webscraper.io
+
+# edelivery.windriver.com
+windriver.com
+
+# trace.wrs.com
+wrs.com
 
 # accounts.x.ai
 # console.x.ai
@@ -410,13 +436,16 @@ zf.com
 
 # Other
 2407.pl
+3parug.com
 6pm.com
 8chan.moe
 acurapartswarehouse.com
 adam-audio.com
 adafruit.com
+adtran.com
 agar.io
 airbrake.io
+all3dp.com
 alberta.ca
 alienwarearena.com
 alltrails.com
@@ -431,9 +460,13 @@ ansys.com
 anythingllm.com
 apiary.io
 aplawrence.com
+att.com
 av-connection.com
+avid.com
 beacon3d.com
+bestbuy.ca
 bestbuy.com
+bitdefender.com
 bitnami.com
 blackfriday.com
 blizzardwatch.com
@@ -442,12 +475,18 @@ blur.io
 boosteroid.com
 bosch.de
 bosch-home.com
+bosch-home.co.nz
+bosch-home.com.sg
+bosch-professional.com
+bsh-group.com
 bradyid.com
 bricklink.com
 brickset.com
 broccolionline.jp
 buf.build
 buymeacoffee.com
+cacti.net
+cadence.com
 cambiumnetworks.com
 canva.com
 canva-apps.com
@@ -458,6 +497,7 @@ census.gov
 certifytheweb.com
 cesium.com
 chatgpt.com
+chipestimate.com
 cici.com
 cisecurity.org
 citrix.com
@@ -467,11 +507,15 @@ clickup.com
 cmems-du.eu
 cocalc.com
 codebrowser.dev
+comazo.de
+completeaccess.audio
 copernicus.eu
 cpu-monkey.com
 crowdstrike.com
 crunchbase.com
 crunchyroll.com
+csagroup.org
+cvedetails.com
 cybersecurity-help.cz
 darkproject.eu
 databricks.com
@@ -481,6 +525,7 @@ deepl.com
 deepsource.io
 deezer.com
 designify.com
+desipro.de
 devart.com
 devexpress.com
 devops.com
@@ -489,13 +534,19 @@ dice.com
 dickssportinggoods.com
 diffblue.com
 digikey.com
+digikey.sg
 disctech.com
 dnb.com
 docker.io
+dogpile.com
+dolby.com
 dyson.com
 dyson.nl
 dyson.se
 e-hentai.org
+e-katalog.com.ua
+e-katalog.ua
+ek.ua
 easydmarc.com
 easyjet.com
 element14.com
@@ -503,12 +554,15 @@ elevenlabs.io
 elgiganten.se
 engagor.com
 entrust.com
+espares.ie
 etsy.com
 extremetech.com
 fanatical.com
+fansub.com.br
 fast.com
 fastflux.ai
 fiercepc.co.uk
+filehippo.com
 findagrave.com
 flexpool.io
 flourish.studio
@@ -521,8 +575,10 @@ fotoforensics.com
 foxnews.com
 foxtrot.com.ua
 framer.com
+freediscussions.com
 freeimages.com
 freemyip.com
+freescale.com
 futurelearn.com
 g2a.com
 g711.org
@@ -533,6 +589,7 @@ genspark.ai
 geospy.ai
 getsafeonline.org
 ghidra-sre.org
+gmv.com
 gofundme.com
 grammarly.com
 grok.com
@@ -541,6 +598,7 @@ habr.com
 hashkey.com
 healthline.com
 home-connect.com
+hostinger.com
 httptoolkit.com
 humblebundle.com
 hume.ai
@@ -557,6 +615,9 @@ insanelymac.com
 insideevs.com
 intel.com
 intel.se
+intel.co.uk
+intel.de
+intel.sg
 intellipaat.com
 iperf3serverlist.net
 jabra.com
@@ -566,6 +627,7 @@ keepgrowing.in
 keepsolid.com
 kemono.su
 klaviyo.com
+klarna.com
 kmail-lists.com
 kowalski7cc.xyz
 kroger.com
@@ -578,8 +640,10 @@ lightning.ai
 linuxiac.com
 lipstickalley.com
 liquidsky.com
+londonstockexchange.com
 logo.com
 lowes.com
+lseg.com
 m3u.in
 macpaw.com
 macvendors.com
@@ -590,10 +654,13 @@ maximintegrated.com
 mbed.com
 meest-shop.com
 megogo.net
+meta.ai
+metacrawler.com
 metopera.org
 michaelkors.global
 microcenter.com
 microchip.com
+mikrocontroller.net
 militarnyi.com
 mint.com
 moneypuck.com
@@ -601,14 +668,19 @@ monotype.com
 monotypefonts.com
 monster.ie
 mouser.com
+multisim.com
 myfonts.com
 myprepaidcenter.com
 myrotvorets.center
 nba.com
 netflix.com
+netscaler.com
 neuesbad.de
+newark.com
+nic.ua
 ngrok.com
 nordvpn.com
+nsa.gov
 nxp.com
 oaistatic.com
 oasis.app
@@ -626,14 +698,19 @@ outflank.nl
 padi.com
 pandasecurity.com
 parts-express.com
+patreon.com
 pcbway.com
 pcgamesn.com
 pcmag.com
+pcspecialist.co.uk
+pdfexpert.com
+penguinrandomhouse.com
 pepephone.com
 perforce.com
 peter-tanner.com
 pexels.com
 philscomputerlab.com
+pi.ai
 pimeyes.com
 pixabay.com
 photonengine.com
@@ -661,12 +738,15 @@ reka.ai
 remove.bg
 resp.app
 reverb.com
+ribbonsoft.com
 salesforce.com
 samsclub.com
+sans.edu
 sbom.sh
 schenker-tech.de
 securitytrails.com
 seekvectorlogo.net
+seagate.com
 semrush.com
 sendy.jp
 sentry.io
@@ -675,12 +755,15 @@ serialcart.com
 serverkast.com
 setapp.com
 shiksha.com
+shopee.co.id
+shopee.tw
 showtime.com
 singlekey-id.com
 skyshowtime.com
 slideshare.net
 smartbear.com
 snort.org
+snyk.io
 soapui.org
 solarwinds.com
 sora.com
@@ -688,6 +771,8 @@ spiceworks.com
 splunk.com
 splunkcloud.com
 spotify.com
+square.com
+squareup.com
 st.com
 stalker2.com
 steamidfinder.com
@@ -699,6 +784,7 @@ studychat.app
 stuff.co.nz
 swagger.io
 syncfusion.com
+synoforum.com
 sysdig.com
 systemtek.co.uk
 tableau.com
@@ -719,11 +805,13 @@ tria.ge
 trionworlds.com
 truthsocial.com
 tsheets.com
+tsmc.com
 tvn24.pl
 ultimaker.com
 undress.cc
 unscreen.com
 unsplash.com
+upv.es
 vagrantcloud.com
 vans.com
 vans.de
@@ -743,18 +831,23 @@ watchguard.com
 wdfiles.com
 we.tl
 weather.com
+weebly.com
 wellfound.com
 wetransfer.com
 wikidot.com
 windguru.cz
+wise.com
 wk.cz
 wonderclub.com
 wunderground.com
+xenserver.com
 xfantazy.com
 xmg.gg
+xrite.com
 yeggi.com
 yithemes.com
 yourdictionary.com
+zomato.com
 zoosk.com
 thenorthface.com
 thenorthfacerenewed.com
