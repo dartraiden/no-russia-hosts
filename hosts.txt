@@ -334,6 +334,9 @@ siemens.com
 # extensions.sketchup.com
 sketchup.com
 
+# store.solidstatelogic.com
+solidstatelogic.com
+
 # community.sophos.com
 # intelix.sophos.com
 sophos.com
@@ -463,6 +466,7 @@ aplawrence.com
 att.com
 av-connection.com
 avid.com
+avira.com
 beacon3d.com
 bestbuy.ca
 bestbuy.com
@@ -589,6 +593,7 @@ genspark.ai
 geospy.ai
 getsafeonline.org
 ghidra-sre.org
+gmplib.org
 gmu.edu
 gmv.com
 gofundme.com
@@ -839,6 +844,7 @@ omnissa.com
 omv-extras.org
 onshape.com
 openculture.com
+opentext.com
 ottg.app
 outflank.nl
 padi.com
