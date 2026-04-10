@@ -589,6 +589,7 @@ genspark.ai
 geospy.ai
 getsafeonline.org
 ghidra-sre.org
+gmu.edu
 gmv.com
 gofundme.com
 grammarly.com
@@ -611,8 +612,10 @@ iherb.com
 ikea.com
 indeed.com
 informit.com
+infosecinstitute.com
 insanelymac.com
 insideevs.com
+intuitibits.com
 intel.ac
 intel.ae
 intel.af
