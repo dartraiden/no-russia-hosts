@@ -125,11 +125,6 @@ fujitsu.com
 # Main domain (pinata.cloud) does not like access from hosters' IP ranges, so add subdomain only
 gateway.pinata.cloud
 
-# Github Copilot, see https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
-github.com
-githubcopilot.com
-githubusercontent.com
-
 # packages.gitlab.com/gitlab/gitlab-ee/
 gitlab.com
 
