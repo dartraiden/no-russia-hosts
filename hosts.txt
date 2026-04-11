@@ -280,6 +280,9 @@ openh264.org
 oracle.com
 oraclecloud.com
 
+# download.parallels.com
+parallels.com
+
 # app.paraswap.io
 paraswap.io
 
