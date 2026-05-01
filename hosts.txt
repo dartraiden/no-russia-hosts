@@ -556,6 +556,7 @@ e-katalog.ua
 ek.ua
 easydmarc.com
 easyjet.com
+editmysite.com
 element14.com
 elevenlabs.io
 elgiganten.se
@@ -920,6 +921,7 @@ smartbear.com
 snort.org
 snyk.io
 soapui.org
+socradar.io
 solarwinds.com
 sora.com
 spiceworks.com
@@ -940,6 +942,7 @@ stuff.co.nz
 swagger.io
 syncfusion.com
 synoforum.com
+synopsys.com
 sysdig.com
 systemtek.co.uk
 tableau.com
