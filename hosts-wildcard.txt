@@ -405,6 +405,7 @@
 *kroger.com
 *langdock.com
 *last.fm
+*launchpad.io
 *ldoceonline.com
 *lego.com
 *leica-geosystems.com
