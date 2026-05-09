@@ -10,6 +10,9 @@ adobe.io
 # app.ahrefs.com
 ahrefs.com
 
+# dashboard.algolia.com
+algolia.com
+
 # gaming.amazon.com
 amazon.com
 
