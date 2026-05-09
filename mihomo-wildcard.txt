@@ -192,9 +192,6 @@
 +.geospy.ai
 +.getsafeonline.org
 +.ghidra-sre.org
-+.github.com
-+.githubcopilot.com
-+.githubusercontent.com
 +.gitlab.com
 +.glpals.com
 +.gmv.com
