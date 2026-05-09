@@ -13,6 +13,7 @@
 *ahrefs.com
 *airbrake.io
 *alberta.ca
+*algolia.com
 *alienwarearena.com
 *all3dp.com
 *alltrails.com
