@@ -64,6 +64,9 @@ brawlstarsgame.com
 # packages-prod.broadcom.com/tools/
 broadcom.com
 
+# forum.camunda.io
+camunda.io
+
 # forums.chaos.com
 # try.chaos.com
 chaos.com
@@ -275,6 +278,9 @@ openh264.org
 oracle.com
 oraclecloud.com
 
+# download.parallels.com
+parallels.com
+
 # app.paraswap.io
 paraswap.io
 
@@ -328,6 +334,9 @@ siemens.com
 # 3dwarehouse.sketchup.com
 # extensions.sketchup.com
 sketchup.com
+
+# store.solidstatelogic.com
+solidstatelogic.com
 
 # community.sophos.com
 # intelix.sophos.com
@@ -458,6 +467,7 @@ aplawrence.com
 att.com
 av-connection.com
 avid.com
+avira.com
 beacon3d.com
 bestbuy.ca
 bestbuy.com
@@ -545,6 +555,7 @@ e-katalog.ua
 ek.ua
 easydmarc.com
 easyjet.com
+editmysite.com
 element14.com
 elevenlabs.io
 elgiganten.se
@@ -585,6 +596,8 @@ genspark.ai
 geospy.ai
 getsafeonline.org
 ghidra-sre.org
+gmplib.org
+gmu.edu
 gmv.com
 gofundme.com
 grammarly.com
@@ -608,6 +621,7 @@ iherb.com
 ikea.com
 indeed.com
 informit.com
+infosecinstitute.com
 insanelymac.com
 insideevs.com
 intel.ac
@@ -759,6 +773,7 @@ intel.vu
 intel.wf
 intel.yt
 intellipaat.com
+intuitibits.com
 iperf3serverlist.net
 jabra.com
 joesandbox.com
@@ -834,6 +849,8 @@ omnissa.com
 omv-extras.org
 onshape.com
 openculture.com
+opentext.com
+otawa.fr
 ottg.app
 outflank.nl
 padi.com
@@ -906,6 +923,7 @@ smartbear.com
 snort.org
 snyk.io
 soapui.org
+socradar.io
 solarwinds.com
 sora.com
 spiceworks.com
@@ -926,6 +944,7 @@ stuff.co.nz
 swagger.io
 syncfusion.com
 synoforum.com
+synopsys.com
 sysdig.com
 systemtek.co.uk
 tableau.com
