@@ -670,6 +670,7 @@
 *wdfiles.com
 *we.tl
 *weather.com
+*web.archive.org
 *webex.com
 *webscraper.io
 *weebly.com
