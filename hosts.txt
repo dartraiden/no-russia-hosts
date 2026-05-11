@@ -397,6 +397,9 @@ wbgames.com
 # walmart.com/orders
 walmart.com
 
+# https://web.archive.org/web/20260430053800/https://habr.com/ru/articles/1029868/
+web.archive.org
+
 # cart.webex.com
 webex.com
 
