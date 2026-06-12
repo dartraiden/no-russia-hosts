@@ -591,6 +591,7 @@
 *squareup.com
 *st.com
 *stalker2.com
+*static.app
 *steamidfinder.com
 *steganos.com
 *stereophile.com
