@@ -42,6 +42,9 @@ augmentcode.com
 autodesk.com
 autodesk.net
 
+# my.avira.com
+avira.com
+
 # bits.avcdn.net
 avcdn.net
 
@@ -467,7 +470,6 @@ aplawrence.com
 att.com
 av-connection.com
 avid.com
-avira.com
 beacon3d.com
 bestbuy.ca
 bestbuy.com
@@ -479,6 +481,7 @@ bluesky-soft.com
 blur.io
 boosteroid.com
 bosch.de
+bosch-diy.com
 bosch-home.com
 bosch-home.co.nz
 bosch-home.com.sg
@@ -778,6 +781,7 @@ iperf3serverlist.net
 jabra.com
 joesandbox.com
 jsfiddle.net
+justanswer.co.uk
 keepgrowing.in
 keepsolid.com
 kemono.su
@@ -1002,6 +1006,7 @@ wise.com
 wk.cz
 wonderclub.com
 wunderground.com
+xdaforums.com
 xenserver.com
 xfantazy.com
 xmg.gg
