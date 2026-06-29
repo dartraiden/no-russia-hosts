@@ -285,6 +285,7 @@ paraswap.io
 
 # builds.parsec.app
 parsec.app
+pencil.dev
 
 # App installation from store-global.picoxr.com
 picoxr.com
