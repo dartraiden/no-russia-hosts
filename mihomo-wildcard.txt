@@ -101,6 +101,7 @@
 +.completeaccess.audio
 +.copernicus.eu
 +.corsair.com
++.coursera.com
 +.cpu-monkey.com
 +.crowdstrike.com
 +.crunchbase.com
@@ -161,9 +162,11 @@
 +.fast.com
 +.fastflux.ai
 +.fastspring.com
++.fedex.com
 +.fiercepc.co.uk
 +.filehippo.com
 +.findagrave.com
++.fireworks.ai
 +.flexpool.io
 +.flourish.studio
 +.fls.guru
@@ -447,6 +450,7 @@
 +.mikrocontroller.net
 +.militarnyi.com
 +.mint.com
++.mistral.ai
 +.moneypuck.com
 +.mongodb.com
 +.mongodb.net
@@ -488,6 +492,7 @@
 +.openai.com
 +.openculture.com
 +.openh264.org
++.opentext.com
 +.oracle.com
 +.oraclecloud.com
 +.ottg.app
@@ -504,6 +509,7 @@
 +.pcmag.com
 +.pcspecialist.co.uk
 +.pdfexpert.com
++.pencil.dev
 +.penguinrandomhouse.com
 +.pepephone.com
 +.perforce.com
@@ -544,6 +550,7 @@
 +.refinitiv.com
 +.reka.ai
 +.remove.bg
++.replicate.com
 +.resp.app
 +.reverb.com
 +.ribbonsoft.com
@@ -605,6 +612,7 @@
 +.swagger.io
 +.syncfusion.com
 +.synoforum.com
++.synopsys.com
 +.sysdig.com
 +.systemtek.co.uk
 +.tableau.com
@@ -630,6 +638,7 @@
 +.tiktokv.com
 +.timberland.com
 +.tmdb.org
++.together.ai
 +.tommy.com
 +.tria.ge
 +.trionworlds.com
@@ -689,6 +698,7 @@
 +.wunderground.com
 +.x.ai
 +.xbox.com
++.xdaforums.com
 +.xenserver.com
 +.xerox.com
 +.xfantazy.com
