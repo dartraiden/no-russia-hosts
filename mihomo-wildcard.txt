@@ -41,6 +41,7 @@
 +.av-connection.com
 +.avcdn.net
 +.avid.com
++.avira.com
 +.bacch.com
 +.battle.net
 +.beacon3d.com
@@ -54,6 +55,7 @@
 +.bluesky-soft.com
 +.blur.io
 +.boosteroid.com
++.bosch-diy.com
 +.bosch-home.co.nz
 +.bosch-home.com
 +.bosch-home.com.sg
@@ -72,6 +74,7 @@
 +.cacti.net
 +.cadence.com
 +.cambiumnetworks.com
++.camunda.io
 +.canva-apps.com
 +.canva.com
 +.capacitorjs.com
@@ -145,6 +148,7 @@
 +.e-katalog.ua
 +.easydmarc.com
 +.easyjet.com
++.editmysite.com
 +.ek.ua
 +.elastic.co
 +.element14.com
@@ -197,6 +201,8 @@
 +.ghidra-sre.org
 +.gitlab.com
 +.glpals.com
++.gmplib.org
++.gmu.edu
 +.gmv.com
 +.gofundme.com
 +.google.com
@@ -237,6 +243,7 @@
 +.indeed.com
 +.infineon.com
 +.informit.com
++.infosecinstitute.com
 +.insanelymac.com
 +.insideevs.com
 +.intel.ac
@@ -389,6 +396,7 @@
 +.intel.yt
 +.intellij.net
 +.intellipaat.com
++.intuitibits.com
 +.iperf3serverlist.net
 +.jabra.com
 +.jetbrains.ai
@@ -396,6 +404,7 @@
 +.joesandbox.com
 +.joyreactor.cc
 +.jsfiddle.net
++.justanswer.co.uk
 +.keepgrowing.in
 +.keepsolid.com
 +.kemono.su
@@ -493,12 +502,15 @@
 +.openculture.com
 +.openh264.org
 +.opentext.com
++.opentext.com
 +.oracle.com
 +.oraclecloud.com
++.otawa.fr
 +.ottg.app
 +.outflank.nl
 +.padi.com
 +.pandasecurity.com
++.parallels.com
 +.paraswap.io
 +.parsec.app
 +.parts-express.com
@@ -588,7 +600,9 @@
 +.snort.org
 +.snyk.io
 +.soapui.org
++.socradar.io
 +.solarwinds.com
++.solidstatelogic.com
 +.sophos.com
 +.sora.com
 +.spiceworks.com
@@ -612,6 +626,7 @@
 +.swagger.io
 +.syncfusion.com
 +.synoforum.com
++.synopsys.com
 +.synopsys.com
 +.sysdig.com
 +.systemtek.co.uk
@@ -698,6 +713,7 @@
 +.wunderground.com
 +.x.ai
 +.xbox.com
++.xdaforums.com
 +.xdaforums.com
 +.xenserver.com
 +.xerox.com
