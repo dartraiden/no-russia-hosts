@@ -96,7 +96,6 @@ cohere.com
 
 # www3.corsair.com
 corsair.com
-coursera.com
 
 # app.deepsource.com
 deepsource.com
@@ -122,8 +121,6 @@ familysearch.org
 # sites.fastspring.com
 # store.fastspring.com
 fastspring.com
-fedex.com
-fireworks.ai
 
 # docs.fortinet.com
 fortinet.com
@@ -243,7 +240,6 @@ metademolab.com
 # copilot.microsoft.com
 # software-static.download.prss.microsoft.com
 microsoft.com
-mistral.ai
 
 # account.mongodb.com
 # cloud.mongodb.com
@@ -280,7 +276,6 @@ openai.com
 
 # ciscobinary.openh264.org
 openh264.org
-opentext.com
 
 # cloud.oracle.com (oraclecloud.com blocks login attempts from Russia)
 oracle.com
@@ -294,7 +289,6 @@ paraswap.io
 
 # builds.parsec.app
 parsec.app
-pencil.dev
 
 # App installation from store-global.picoxr.com
 picoxr.com
@@ -317,7 +311,6 @@ raycast-releases.com
 
 # gold.razer.com
 razer.com
-replicate.com
 
 # support.ruckuswireless.com
 ruckuswireless.com
@@ -357,7 +350,6 @@ summerana.com
 
 # store.supercell.com
 supercell.com
-synopsys.com
 
 # pkgs.tailscale.com
 tailscale.com
@@ -381,7 +373,6 @@ teamviewer.com
 # tiktok.com/@maximusic2019/video/7389281875589729568
 tiktok.com
 tiktokv.com
-together.ai
 ttwstatic.com
 
 # FullHD on Twitch, see https://habr.com/news/922338/
@@ -439,7 +430,6 @@ x.ai
 
 # xboxdesignlab.xbox.com
 xbox.com
-xdaforums.com
 
 # accountmanagement.services.xerox.com/sites/customerportal?hc_login
 # www.support.xerox.com
@@ -531,6 +521,7 @@ codebrowser.dev
 comazo.de
 completeaccess.audio
 copernicus.eu
+coursera.com
 cpu-monkey.com
 crowdstrike.com
 crunchbase.com
@@ -584,9 +575,11 @@ fanatical.com
 fansub.com.br
 fast.com
 fastflux.ai
+fedex.com
 fiercepc.co.uk
 filehippo.com
 findagrave.com
+fireworks.ai
 flexpool.io
 flourish.studio
 fls.guru
@@ -836,6 +829,7 @@ microchip.com
 mikrocontroller.net
 militarnyi.com
 mint.com
+mistral.ai
 moneypuck.com
 monotype.com
 monotypefonts.com
@@ -880,6 +874,7 @@ pcgamesn.com
 pcmag.com
 pcspecialist.co.uk
 pdfexpert.com
+pencil.dev
 penguinrandomhouse.com
 pepephone.com
 perforce.com
@@ -913,6 +908,7 @@ redis.io
 refinitiv.com
 reka.ai
 remove.bg
+replicate.com
 resp.app
 reverb.com
 ribbonsoft.com
@@ -982,6 +978,7 @@ thomas-krenn.com
 ti.com
 tidal.com
 timberland.com
+together.ai
 tommy.com
 tria.ge
 trionworlds.com
