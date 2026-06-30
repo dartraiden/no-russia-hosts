@@ -502,7 +502,6 @@
 *openculture.com
 *openh264.org
 *opentext.com
-*opentext.com
 *oracle.com
 *oraclecloud.com
 *otawa.fr
@@ -627,7 +626,6 @@
 *syncfusion.com
 *synoforum.com
 *synopsys.com
-*synopsys.com
 *sysdig.com
 *systemtek.co.uk
 *tableau.com
@@ -713,7 +711,6 @@
 *wunderground.com
 *x.ai
 *xbox.com
-*xdaforums.com
 *xdaforums.com
 *xenserver.com
 *xerox.com
