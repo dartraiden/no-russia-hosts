@@ -109,8 +109,15 @@ dellcdn.com
 # www.delltechnologies.com
 delltechnologies.com
 
+# f00.esfr.pl/foto/0/
+esfr.pl
+
 # artifacts.elastic.co
 elastic.co
+
+# help.elevenlabs.io/hc/en-us/articles/22497891312401-Do-you-restrict-access-to-the-service-and-platform-for-any-specific-countries
+elevenlabs.io
+elevenreader.io
 
 # Some giveaways from store.epicgames.com are not available
 epicgames.com
@@ -312,11 +319,19 @@ raycast-releases.com
 # gold.razer.com
 razer.com
 
+# app.reve.com/api/misc/landing
+reve.art
+reve.com
+
 # support.ruckuswireless.com
 ruckuswireless.com
 
 # blogs.sap.com
 sap.com
+
+# This page is unavailable
+scribdassets.com
+scribd.com
 
 # aftermarket.schaeffler.com
 # vehiclelifetimesolutions.schaeffler.com
@@ -472,7 +487,12 @@ apiary.io
 aplawrence.com
 att.com
 av-connection.com
+avast.com
+avast.ru
 avid.com
+badoo.app
+badoo.com
+badoocdn.com
 beacon3d.com
 bestbuy.ca
 bestbuy.com
@@ -554,6 +574,7 @@ docker.io
 dogpile.com
 dolby.com
 dyson.com
+dyson.de
 dyson.nl
 dyson.se
 e-hentai.org
@@ -565,12 +586,15 @@ easyjet.com
 editmysite.com
 element14.com
 elevenlabs.io
+elgato.com
 elgiganten.se
 engagor.com
 entrust.com
 espares.ie
+espares.it
 etsy.com
 extremetech.com
+euro.com.pl
 fanatical.com
 fansub.com.br
 fast.com
@@ -785,6 +809,7 @@ intellipaat.com
 intuitibits.com
 iperf3serverlist.net
 jabra.com
+jetbrains.space
 joesandbox.com
 jsfiddle.net
 justanswer.co.uk
@@ -1022,6 +1047,7 @@ wonderclub.com
 wunderground.com
 xdaforums.com
 xenserver.com
+xiaomi.eu
 xfantazy.com
 xmg.gg
 xrite.com
