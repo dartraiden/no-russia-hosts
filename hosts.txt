@@ -235,6 +235,9 @@ linear.app
 # llama3-1.llamameta.net
 llamameta.net
 
+# kaleido.ai/ru-no-access
+kaleido.ai
+
 # make.com/en/register
 make.com
 
@@ -266,6 +269,9 @@ microsoft.com
 # cloud.mongodb.com
 mongodb.com
 mongodb.net
+
+# static.naukimg.com
+naukimg.com
 
 # downloads.ndi.tv
 ndi.tv
@@ -473,6 +479,10 @@ zetalliance.org
 # aftermarket.zf.com
 zf.com
 
+# zapier.com/l/us-sanctions
+zapier-deployment.com
+zapier.com
+
 # Other
 2407.pl
 3parug.com
@@ -541,6 +551,7 @@ cdromance.org
 census.gov
 certifytheweb.com
 cesium.com
+cgtrader.com
 chatgpt.com
 chipestimate.com
 cici.com
@@ -685,6 +696,7 @@ g2a.com
 g711.org
 gambody.com
 game.co.uk
+game8.co
 gamestop.com
 genspark.ai
 geospy.ai
@@ -904,6 +916,8 @@ manus.im
 mattermost.com
 maximintegrated.com
 mbed.com
+mediaexpert.pl
+mediamarkt.pl
 meest-shop.com
 megogo.net
 meta.ai
@@ -917,6 +931,7 @@ militarnyi.com
 mint.com
 mistral.ai
 moneypuck.com
+monica.im
 monotype.com
 monotypefonts.com
 monster.ie
@@ -925,6 +940,7 @@ multisim.com
 myfonts.com
 myprepaidcenter.com
 myrotvorets.center
+naukri.com
 nba.com
 netapp.com
 netflix.com
@@ -1004,6 +1020,7 @@ samsclub.com
 sans.edu
 sbom.sh
 schenker-tech.de
+se.com
 securitytrails.com
 seekvectorlogo.net
 seagate.com
