@@ -87,6 +87,14 @@ cisco.com
 # database.clamav.net
 clamav.net
 
+# claude.com/app-unavailable-in-region
+clau.de
+claude.ai
+claude.com
+claudemcpclient.com
+claudemcpcontent.com
+claudeusercontent.com
+
 # cxstudio.clarabridge.net
 clarabridge.net
 
@@ -221,8 +229,14 @@ leica-geosystems.com
 # forum.lightburnsoftware.com
 lightburnsoftware.com
 
+# linear.app/signup
+linear.app
+
 # llama3-1.llamameta.net
 llamameta.net
+
+# make.com/en/register
+make.com
 
 # wiki.malw.link/network/vpns
 malw.link
@@ -532,7 +546,6 @@ chipestimate.com
 cici.com
 cisecurity.org
 citrix.com
-claude.ai
 clevelandclinic.org
 clickup.com
 cmems-du.eu
@@ -573,10 +586,58 @@ dnb.com
 docker.io
 dogpile.com
 dolby.com
+dyson.ae
+dyson.at
+dyson.be
+dyson.ca
+dyson.ch
+dyson.cn
+dyson.co.il
+dyson.co.jp
+dyson.co.kr
+dyson.co.nz
+dyson.co.th
+dyson.co.uk
+dyson.co.za
 dyson.com
+dyson.com.ar
+dyson.com.au
+dyson.com.br
+dyson.com.ee
+dyson.com.kh
+dyson.com.ro
+dyson.com.sg
+dyson.com.tr
+dyson.cz
 dyson.de
+dyson.dk
+dyson.ee
+dyson.es
+dyson.fi
+dyson.fr
+dyson.gr
+dyson.hk
+dyson.hu
+dyson.ie
+dyson.in
+dyson.it
+dyson.jp
+dyson.lt
+dyson.ma
+dyson.mx
+dyson.my
 dyson.nl
+dyson.no
+dyson.ph
+dyson.pl
+dyson.pt
+dyson.sa
 dyson.se
+dyson.tw
+dyson.us
+dyson.vn
+dysoncanada.ca
+dysonrecall.com
 e-hentai.org
 e-katalog.com.ua
 e-katalog.ua
@@ -865,6 +926,7 @@ myfonts.com
 myprepaidcenter.com
 myrotvorets.center
 nba.com
+netapp.com
 netflix.com
 netscaler.com
 neuesbad.de
