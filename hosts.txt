@@ -129,6 +129,9 @@ delltechnologies.com
 # dtm8.dinamicagenerale.com, geoblock after auth
 dinamicagenerale.com
 
+# dola.com/security/region-restricted
+dola.com
+
 # f00.esfr.pl/foto/0/
 esfr.pl
 
@@ -561,6 +564,7 @@ bricklink.com
 brickset.com
 broccolionline.jp
 buf.build
+bumble.com
 buymeacoffee.com
 cacti.net
 cadence.com
@@ -980,6 +984,8 @@ nxp.com
 oaistatic.com
 oasis.app
 oclc.org
+octanorm.com
+octanorm.expo.shop
 octopart.com
 octopart-clicks.com
 octostatic.com
