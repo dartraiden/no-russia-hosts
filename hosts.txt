@@ -126,6 +126,9 @@ dellcdn.com
 # www.delltechnologies.com
 delltechnologies.com
 
+# dtm8.dinamicagenerale.com, geoblock after auth
+dinamicagenerale.com
+
 # f00.esfr.pl/foto/0/
 esfr.pl
 
