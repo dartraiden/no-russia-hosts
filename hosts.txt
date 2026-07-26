@@ -475,6 +475,9 @@ webscraper.io
 # edelivery.windriver.com
 windriver.com
 
+# windsurf.com/restricted
+windsurf.com
+
 # trace.wrs.com
 wrs.com
 
