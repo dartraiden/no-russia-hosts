@@ -283,6 +283,9 @@ microsoft.com
 # dr.miromind.ai
 miromind.ai
 
+# cms-images.mmst.eu
+mmst.eu
+
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
@@ -293,6 +296,9 @@ naukimg.com
 
 # downloads.ndi.tv
 ndi.tv
+
+# console.neon.tech
+neon.tech
 
 # login.norton.com
 norton.com
