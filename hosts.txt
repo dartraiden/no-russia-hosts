@@ -31,6 +31,9 @@ atlassian.com
 # w.atwiki.jp
 atwiki.jp
 
+# ws.audioscrobbler.com
+audioscrobbler.com
+
 # i1.api.augmentcode.com
 # app.augmentcode.com
 augmentcode.com
@@ -50,6 +53,12 @@ avcdn.net
 
 # repo.bacch.com
 bacch.com
+
+# basecamp.com/sanctions
+basecamp.com
+
+# 3.basecampapi.com
+basecampapi.com
 
 # eu.shop.battle.net/ru-ru/product/warcraft-1-remastered
 battle.net
@@ -265,6 +274,9 @@ metademolab.com
 # software-static.download.prss.microsoft.com
 microsoft.com
 
+# dr.miromind.ai
+miromind.ai
+
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
@@ -319,6 +331,10 @@ parsec.app
 
 # App installation from store-global.picoxr.com
 picoxr.com
+
+# app.posthog.com
+# eu.posthog.com
+posthog.com
 
 # sites.prh.com
 prh.com
@@ -660,6 +676,7 @@ element14.com
 elevenlabs.io
 elgato.com
 elgiganten.se
+eneba.com
 engagor.com
 entrust.com
 espares.ie
@@ -708,6 +725,7 @@ gmv.com
 gofundme.com
 grammarly.com
 grok.com
+guidedhacking.com
 guilded.gg
 habr.com
 hashflare.io
@@ -901,6 +919,7 @@ lego.com
 lenso.ai
 letyshops.com
 lightning.ai
+linguee.com
 linuxiac.com
 lipstickalley.com
 liquidsky.com
@@ -1118,6 +1137,7 @@ weather.com
 weebly.com
 wellfound.com
 wetransfer.com
+whimsical.com
 wikidot.com
 windguru.cz
 wise.com
