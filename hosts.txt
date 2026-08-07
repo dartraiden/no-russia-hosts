@@ -31,6 +31,9 @@ atlassian.com
 # w.atwiki.jp
 atwiki.jp
 
+# ws.audioscrobbler.com
+audioscrobbler.com
+
 # i1.api.augmentcode.com
 # app.augmentcode.com
 augmentcode.com
@@ -50,6 +53,12 @@ avcdn.net
 
 # repo.bacch.com
 bacch.com
+
+# basecamp.com/sanctions
+basecamp.com
+
+# 3.basecampapi.com
+basecampapi.com
 
 # eu.shop.battle.net/ru-ru/product/warcraft-1-remastered
 battle.net
@@ -87,6 +96,14 @@ cisco.com
 # database.clamav.net
 clamav.net
 
+# claude.com/app-unavailable-in-region
+clau.de
+claude.ai
+claude.com
+claudemcpclient.com
+claudemcpcontent.com
+claudeusercontent.com
+
 # cxstudio.clarabridge.net
 clarabridge.net
 
@@ -109,8 +126,21 @@ dellcdn.com
 # www.delltechnologies.com
 delltechnologies.com
 
+# dtm8.dinamicagenerale.com, geoblock after auth
+dinamicagenerale.com
+
+# dola.com/security/region-restricted
+dola.com
+
+# f00.esfr.pl/foto/0/
+esfr.pl
+
 # artifacts.elastic.co
 elastic.co
+
+# help.elevenlabs.io/hc/en-us/articles/22497891312401-Do-you-restrict-access-to-the-service-and-platform-for-any-specific-countries
+elevenlabs.io
+elevenreader.io
 
 # Some giveaways from store.epicgames.com are not available
 epicgames.com
@@ -214,8 +244,17 @@ leica-geosystems.com
 # forum.lightburnsoftware.com
 lightburnsoftware.com
 
+# linear.app/signup
+linear.app
+
 # llama3-1.llamameta.net
 llamameta.net
+
+# kaleido.ai/ru-no-access
+kaleido.ai
+
+# make.com/en/register
+make.com
 
 # wiki.malw.link/network/vpns
 malw.link
@@ -241,13 +280,25 @@ metademolab.com
 # software-static.download.prss.microsoft.com
 microsoft.com
 
+# dr.miromind.ai
+miromind.ai
+
+# cms-images.mmst.eu
+mmst.eu
+
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
 mongodb.net
 
+# static.naukimg.com
+naukimg.com
+
 # downloads.ndi.tv
 ndi.tv
+
+# console.neon.tech
+neon.tech
 
 # login.norton.com
 norton.com
@@ -293,6 +344,10 @@ parsec.app
 # App installation from store-global.picoxr.com
 picoxr.com
 
+# app.posthog.com
+# eu.posthog.com
+posthog.com
+
 # sites.prh.com
 prh.com
 
@@ -312,11 +367,19 @@ raycast-releases.com
 # gold.razer.com
 razer.com
 
+# app.reve.com/api/misc/landing
+reve.art
+reve.com
+
 # support.ruckuswireless.com
 ruckuswireless.com
 
 # blogs.sap.com
 sap.com
+
+# This page is unavailable
+scribdassets.com
+scribd.com
 
 # aftermarket.schaeffler.com
 # vehiclelifetimesolutions.schaeffler.com
@@ -421,6 +484,9 @@ webscraper.io
 # edelivery.windriver.com
 windriver.com
 
+# windsurf.com/restricted
+windsurf.com
+
 # trace.wrs.com
 wrs.com
 
@@ -443,6 +509,10 @@ zetalliance.org
 
 # aftermarket.zf.com
 zf.com
+
+# zapier.com/l/us-sanctions
+zapier-deployment.com
+zapier.com
 
 # Other
 2407.pl
@@ -472,7 +542,12 @@ apiary.io
 aplawrence.com
 att.com
 av-connection.com
+avast.com
+avast.ru
 avid.com
+badoo.app
+badoo.com
+badoocdn.com
 beacon3d.com
 bestbuy.ca
 bestbuy.com
@@ -495,6 +570,7 @@ bricklink.com
 brickset.com
 broccolionline.jp
 buf.build
+bumble.com
 buymeacoffee.com
 cacti.net
 cadence.com
@@ -507,12 +583,12 @@ cdromance.org
 census.gov
 certifytheweb.com
 cesium.com
+cgtrader.com
 chatgpt.com
 chipestimate.com
 cici.com
 cisecurity.org
 citrix.com
-claude.ai
 clevelandclinic.org
 clickup.com
 cmems-du.eu
@@ -522,6 +598,7 @@ comazo.de
 completeaccess.audio
 copernicus.eu
 coursera.com
+corecode.io
 cpu-monkey.com
 crowdstrike.com
 crunchbase.com
@@ -553,9 +630,58 @@ dnb.com
 docker.io
 dogpile.com
 dolby.com
+dyson.ae
+dyson.at
+dyson.be
+dyson.ca
+dyson.ch
+dyson.cn
+dyson.co.il
+dyson.co.jp
+dyson.co.kr
+dyson.co.nz
+dyson.co.th
+dyson.co.uk
+dyson.co.za
 dyson.com
+dyson.com.ar
+dyson.com.au
+dyson.com.br
+dyson.com.ee
+dyson.com.kh
+dyson.com.ro
+dyson.com.sg
+dyson.com.tr
+dyson.cz
+dyson.de
+dyson.dk
+dyson.ee
+dyson.es
+dyson.fi
+dyson.fr
+dyson.gr
+dyson.hk
+dyson.hu
+dyson.ie
+dyson.in
+dyson.it
+dyson.jp
+dyson.lt
+dyson.ma
+dyson.mx
+dyson.my
 dyson.nl
+dyson.no
+dyson.ph
+dyson.pl
+dyson.pt
+dyson.sa
 dyson.se
+dyson.tw
+dyson.us
+dyson.vn
+dysoncanada.ca
+dysonrecall.com
 e-hentai.org
 e-katalog.com.ua
 e-katalog.ua
@@ -565,12 +691,16 @@ easyjet.com
 editmysite.com
 element14.com
 elevenlabs.io
+elgato.com
 elgiganten.se
+eneba.com
 engagor.com
 entrust.com
 espares.ie
+espares.it
 etsy.com
 extremetech.com
+euro.com.pl
 fanatical.com
 fansub.com.br
 fast.com
@@ -599,7 +729,9 @@ futurelearn.com
 g2a.com
 g711.org
 gambody.com
+game-info.wiki
 game.co.uk
+game8.co
 gamestop.com
 genspark.ai
 geospy.ai
@@ -611,6 +743,7 @@ gmv.com
 gofundme.com
 grammarly.com
 grok.com
+guidedhacking.com
 guilded.gg
 habr.com
 hashflare.io
@@ -785,6 +918,7 @@ intellipaat.com
 intuitibits.com
 iperf3serverlist.net
 jabra.com
+jetbrains.space
 joesandbox.com
 jsfiddle.net
 justanswer.co.uk
@@ -803,6 +937,7 @@ lego.com
 lenso.ai
 letyshops.com
 lightning.ai
+linguee.com
 linuxiac.com
 lipstickalley.com
 liquidsky.com
@@ -818,6 +953,8 @@ manus.im
 mattermost.com
 maximintegrated.com
 mbed.com
+mediaexpert.pl
+mediamarkt.pl
 meest-shop.com
 megogo.net
 meta.ai
@@ -831,6 +968,7 @@ militarnyi.com
 mint.com
 mistral.ai
 moneypuck.com
+monica.im
 monotype.com
 monotypefonts.com
 monster.ie
@@ -839,7 +977,9 @@ multisim.com
 myfonts.com
 myprepaidcenter.com
 myrotvorets.center
+naukri.com
 nba.com
+netapp.com
 netflix.com
 netscaler.com
 neuesbad.de
@@ -852,6 +992,8 @@ nxp.com
 oaistatic.com
 oasis.app
 oclc.org
+octanorm.com
+octanorm.expo.shop
 octopart.com
 octopart-clicks.com
 octostatic.com
@@ -917,6 +1059,7 @@ samsclub.com
 sans.edu
 sbom.sh
 schenker-tech.de
+se.com
 securitytrails.com
 seekvectorlogo.net
 seagate.com
@@ -1014,6 +1157,7 @@ weather.com
 weebly.com
 wellfound.com
 wetransfer.com
+whimsical.com
 wikidot.com
 windguru.cz
 wise.com
@@ -1022,6 +1166,7 @@ wonderclub.com
 wunderground.com
 xdaforums.com
 xenserver.com
+xiaomi.eu
 xfantazy.com
 xmg.gg
 xrite.com
