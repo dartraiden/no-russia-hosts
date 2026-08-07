@@ -598,6 +598,7 @@ comazo.de
 completeaccess.audio
 copernicus.eu
 coursera.com
+corecode.io
 cpu-monkey.com
 crowdstrike.com
 crunchbase.com
@@ -728,6 +729,7 @@ futurelearn.com
 g2a.com
 g711.org
 gambody.com
+game-info.wiki
 game.co.uk
 game8.co
 gamestop.com
