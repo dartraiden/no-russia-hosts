@@ -145,6 +145,10 @@ elastic.co
 elevenlabs.io
 elevenreader.io
 
+# Not available in your region for every paid application
+# marketplace.elgato.com
+elgato.com
+
 # Some giveaways from store.epicgames.com are not available
 epicgames.com
 
@@ -160,6 +164,9 @@ fortinet.com
 
 # support.ts.fujitsu.com
 fujitsu.com
+
+# 403 when routed through atlas.cogentco.com networks
+game-info.wiki
 
 # Main domain (pinata.cloud) does not like access from hosters' IP ranges, so add subdomain only
 gateway.pinata.cloud
@@ -387,7 +394,6 @@ ruckuswireless.com
 sap.com
 
 # This page is unavailable
-scribdassets.com
 scribd.com
 
 # aftermarket.schaeffler.com
@@ -720,7 +726,6 @@ easyjet.com
 editmysite.com
 element14.com
 elevenlabs.io
-elgato.com
 elgiganten.se
 eneba.com
 engagor.com
@@ -761,7 +766,6 @@ futurelearn.com
 g2a.com
 g711.org
 gambody.com
-game-info.wiki
 game.co.uk
 game8.co
 gamestop.com
