@@ -553,6 +553,7 @@ adtran.com
 affinity.studio
 agar.io
 airbrake.io
+akkadia.org
 all3dp.com
 alberta.ca
 alienwarearena.com
@@ -628,6 +629,7 @@ cocalc.com
 codebrowser.dev
 comazo.de
 completeaccess.audio
+coolserver-coolleo.com
 copernicus.eu
 coursera.com
 corecode.io
@@ -665,6 +667,7 @@ dnb.com
 docker.io
 dogpile.com
 dolby.com
+drivesaversdatarecovery.com
 dyson.ae
 dyson.at
 dyson.be
@@ -727,6 +730,7 @@ editmysite.com
 element14.com
 elevenlabs.io
 elgiganten.se
+embedded.com
 eneba.com
 engagor.com
 enscape3d.com
@@ -963,6 +967,7 @@ justanswer.co.uk
 keepgrowing.in
 keepsolid.com
 kemono.su
+keysight.com
 klaviyo.com
 klarna.com
 kmail-lists.com
@@ -971,6 +976,7 @@ kroger.com
 last.fm
 launchpad.io
 ldoceonline.com
+ldra.com
 lego.com
 lenso.ai
 letyshops.com
@@ -1102,6 +1108,7 @@ resp.app
 reverb.com
 ribbonsoft.com
 romsgames.net
+rose-hulman.edu
 salesforce.com
 samsclub.com
 sans.edu
@@ -1111,6 +1118,7 @@ se.com
 securitytrails.com
 seekvectorlogo.net
 seagate.com
+selinc.com
 semrush.com
 sendy.jp
 sentry.io
