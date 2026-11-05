@@ -15,6 +15,7 @@
 *agar.io
 *ahrefs.com
 *airbrake.io
+*akkadia.org
 *alberta.ca
 *algolia.com
 *alienwarearena.com
@@ -124,6 +125,7 @@
 *cohere.com
 *comazo.de
 *completeaccess.audio
+*coolserver-coolleo.com
 *copernicus.eu
 *corecode.io
 *coreweave.com
@@ -168,6 +170,7 @@
 *dogpile.com
 *dola.com
 *dolby.com
+*drivesaversdatarecovery.com
 *dyson.ae
 *dyson.at
 *dyson.be
@@ -234,6 +237,7 @@
 *elevenreader.io
 *elgato.com
 *elgiganten.se
+*embedded.com
 *eneba.com
 *engagor.com
 *enscape3d.com
@@ -502,6 +506,7 @@
 *keepgrowing.in
 *keepsolid.com
 *kemono.su
+*keysight.com
 *klarna.com
 *klaviyo.com
 *kmail-lists.com
@@ -688,6 +693,7 @@
 *reverb.com
 *ribbonsoft.com
 *romsgames.net
+*rose-hulman.edu
 *ruckuswireless.com
 *salesforce.com
 *samsclub.com
@@ -702,6 +708,7 @@
 *seagate.com
 *securitytrails.com
 *seekvectorlogo.net
+*selinc.com
 *semrush.com
 *sendy.jp
 *sentry.io
